@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation">
+    <meta property="og:title" content="IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation" />
+    <meta property="og:description" content="IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation" />
+    <meta property="og:url" content="https://correr-zhou.github.io/IdentityStory" />
+    <meta property="og:image" content="static/images/teaser.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <meta name="twitter:title" content="IdentityStory">
+    <meta name="twitter:description" content="IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation">
+    <meta name="twitter:image" content="static/images/teaser.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="keywords" content="Story Generation, Identity Preservation, Diffusion Models">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation</title>
+    <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <link rel="stylesheet" href="static/css/bulma.min.css">
+    <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="static/css/index.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+    <script defer src="static/js/fontawesome.all.min.js"></script>
+    <script src="static/js/bulma-carousel.min.js"></script>
+    <script src="static/js/bulma-slider.min.js"></script>
+    <script src="static/js/index.js"></script>
+</head>
+
+
+
+<body>
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container is-max-desktop">
+                <div class="columns is-centered">
+                    <div class="column has-text-centered">
+                        <h1 class="title is-1 publication-title">IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation</h1>
+                        <div class="is-size-5 publication-authors">
+                            <!-- Paper authors -->
+                            <span class="author-block">
+                                <a href="https://correr-zhou.github.io/" target="_blank">Donghao Zhou</a><sup>1,*</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://correr-zhou.github.io/IdentityStory" target="_blank">Jingyu Lin</a><sup>2,*</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en" target="_blank">Guibao Shen</a><sup>3</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://liuquande.github.io/" target="_blank">Quande Liu</a><sup>4</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://scholar.google.com/citations?user=JeGvBCUAAAAJ&hl=zh-CN" target="_blank">Jialin Gao</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://lihaoliu-cambridge.github.io/" target="_blank">Lihao Liu</a><sup>5</sup>,
+                            </span>
+                            <br>
+                            <span class="author-block">
+                                <a href="https://correr-zhou.github.io/IdentityStory" target="_blank">Lan Du</a><sup>2</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://cunjian.github.io/" target="_blank">Cunjian Chen</a><sup>2,†</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://www.cse.cuhk.edu.hk/~cwfu/" target="_blank">Chi-Wing Fu</a><sup>1</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://xw-hu.github.io/" target="_blank">Xiaowei Hu</a><sup>6,†</sup>,
+                            </span>
+                            <span class="author-block">
+                                <a href="https://appsrv.cse.cuhk.edu.hk/~pheng/index.php" target="_blank">Pheng-Ann Heng</a><sup>1</sup>
+                            </span>
+                        </div>
+
+
+                        <div class="is-size-5 publication-authors">
+                            <span class="author-block"><sup>1</sup>The Chinese University of Hong Kong</span>
+                            <span class="author-block"><sup>2</sup>Monash University</span>
+                            <span class="author-block"><sup>3</sup>The Hong Kong University of Science and Technology (Guangzhou)</span>
+                            <br>
+                            <span class="author-block"><sup>4</sup>Kling Team, Kuaishou Technology</span>
+                            <span class="author-block"><sup>5</sup>Amazon</span>
+                            <span class="author-block"><sup>6</sup>South China University of Technology</span>
+                            <br>
+                            <span class="eql-cntrb"><small><sup>*</sup>Equal contribution.</small></span>
+                            <span class="eql-cntrb"><small><sup>†</sup>Corresponding authors.</small></span>
+                            <br>
+                            <span class="author-block" style="font-size: 24px;"><b>Accepted by AAAI 2026</b></span>
+                        </div>
+
+                        <div class="column has-text-centered">
+                            <div class="publication-links">
+                                <!-- Paper PDF link -->
+                                <span class="link-block">
+                                    <a href="https://arxiv.org/pdf/2512.23519" target="_blank"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fas fa-file-pdf"></i>
+                                        </span>
+                                        <span>Paper</span>
+                                    </a>
+                                </span>
+
+                                <!-- Github link -->
+                                <span class="link-block">
+                                    <a href="https://github.com/Correr-Zhou/IdentityStory" target="_blank"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <i class="fab fa-github"></i>
+                                        </span>
+                                        <span>Code</span>
+                                    </a>
+                                </span>
+
+                                <!-- Hugging Face link -->
+                                <!-- <span class="link-block">
+                                    <a href="https://correr-zhou.github.io/IdentityStory" target="_blank"
+                                        class="external-link button is-normal is-rounded is-dark">
+                                        <span class="icon">
+                                            <img src="static/images/hf.png" alt="Hugging Face">
+                                        </span>
+                                        <span>Benchmark</span>
+                                    </a>
+                                </span> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <!-- Paper abstract -->
+    <section class="section hero is-light" style="padding: 2rem 0;">
+        <div class="container is-max-widescreen">
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-four-fifths">
+                    <h2 class="title is-2">Abstract</h2>
+                    <div class="content has-text-justified">
+                        <p>
+                            Recent visual generative models enable story generation with consistent characters from text, but human-centric story generation faces additional challenges, such as maintaining detailed and diverse human face consistency and coordinating multiple characters across different images.
+                            This paper presents <b>IdentityStory</b>, a framework for human-centric story generation that ensures consistent character identity across multiple sequential images. By taming identity-preserving generators, the framework features two key components:
+                            (i) <i>Iterative Identity Discovery</i>, which extracts cohesive character identities, and
+                            (ii) <i>Re-denoising Identity Injection</i>, which re-denoises images to inject identities while preserving desired context.
+                            Experiments on the ConsiStory-Human benchmark demonstrate that IdentityStory outperforms existing methods, particularly in face consistency, and supports multi-character combinations. The framework also shows strong potential for applications such as infinite-length story generation and dynamic character composition.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End paper abstract -->
+
+    <!-- Teaser-->
+    <section class="hero teaser" style="padding: 2rem 0;">
+        <div class="container is-max-desktop">
+            <div class="hero-body" style="padding: 0;">
+                <div class="columns is-centered has-text-centered">
+                    <div class="column custom-width">
+                        <h2 class="title is-2" style="margin-bottom: 1rem;">Human-Centric Story Generation</h2>
+                        <div class="content has-text-justified">
+                            <p>
+                                Our IdentityStory can solely rely on text to generate a series of images that consistently depict human characters and faithfully align with text prompts, outperforming the state-of-the-art methods.
+                            </p>
+                            <div class="columns is-centered has-text-justified">
+                                <td colspan="3">
+                                    <img src="static/images/teaser.png" alt="teaser" width="1000" />
+                                </td>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End teaser -->
+
+    <!-- Findings -->
+    <section class="section hero is-small" style="padding: 3rem 0;">
+        <div class="hero-body" style="padding: 0;">
+            <div class="container is-max-desktop">
+                <h2 class="title is-2 has-text-centered">Findings</h2>
+                
+                <!-- Finding 1 -->
+                <div class="box" style="margin-bottom: 2rem; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                    <div class="columns is-vcentered">
+                        <div class="column is-6">
+                            <h3 class="title is-4" style="margin-bottom: 2rem;">Finding 1: Identity Space</h3>
+                            <div class="content">
+                                <p>
+                                    We find that identity-preserving generators possess a well-constructed identity space, where identity representation can be obtained by aggregating character image embeddings.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="column is-6">
+                            <figure class="image">
+                                <img src="static/images/motivation_emb.png" alt="Identity Embeddings" style="width: 100%;">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Finding 2 -->
+                <div class="box" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                    <div class="columns is-vcentered">
+                        <div class="column is-6">
+                            <h3 class="title is-4" style="margin-bottom: 2rem;">Finding 2: Text Alignment Degradation</h3>
+                            <div class="content">
+                                <p>
+                                    We find that identity-preserving generators tend to exhibit degraded performance on text alignment, where the generated images may deviate from the text prompts.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="column is-6">
+                            <figure class="image">
+                                <img src="static/images/motivation_align.png" alt="Text Alignment Degradation" style="width: 100%;">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End Findings -->
+
+    <!-- Paper method -->
+    <section class="section hero is-small" style="padding: 3rem 0;">
+        <div class="hero-body" style="padding: 0;">
+            <div class="container is-max-desktop">
+                <div class="columns is-centered has-text-centered">
+                    <div class="column is-full">
+                        <h2 class="title is-2">Methodology</h2>
+                        <div class="content has-text-justified">
+                            <td colspan="3">
+                                <p>
+                                    IdentityStory comprises two core techniques to address challenges in human-centric story generation:
+                                </p>
+                                <p>
+                                    (i) <b>Iterative Identity Discovery</b>:
+                                    We find that identity-preserving generators process a well-constructed identity space, where identity representation can be obtained by aggregating character image embeddings. 
+                                    After generating diverse character images from descriptions and projecting them into the identity space, we use Singular Value Decomposition (SVD) to iteratively filter out low-relevance embeddings and extract cohesive identities.
+                                </p>
+                                <p>
+                                    (ii) <b>Re-denoising Identity Injection</b>:
+                                    To address text alignment degradation of identity-preserving generators, we first use a general generator to create a more text-aligned prototype image. 
+                                    Meanwhile, we cache noisy images during generation to preserve environmental semantics and segment the prototype image to extract character layouts. 
+                                    Using a progressive masking strategy, we then re-denoise with identity-preserving generators to inject identities.
+                                </p>
+                            </td>
+                        </div>
+                        <br>
+                        <div class="columns is-centered has-text-justified">
+                            <td colspan="3">
+                                <img src="static/images/pipeline.png" alt="pipeline" width="1000" />
+                            </td>
+                        </div>
+                    </div>
+    </section>
+    <!--End paper poster -->
+
+
+    <!-- Experiments -->
+    <section class="hero is-small" style="padding: 3rem 0;">
+        <div class="hero-body has-text-centered" style="padding: 0;">
+            <h2 class="title is-2 mmmu">Experiments</h2>
+        </div>
+
+        <!-- Quantitative Comparisons -->
+        <div class="container is-max-desktop">
+            <div class="has-text-centered" style="margin-top: 20px; margin-bottom: 20px;">
+                <h3 class="title is-3" style="margin-bottom: 10px !important;">Quantitative Comparisons</h3>
+            </div>
+            <div class="content has-text-justified">
+                <p>
+                    The results of automatic metrics demonstrate IdentityStory's overall superior performance, especially in <i>face similarity (Face-Sim)</i>. The best and second-best results are marked in <b>bold</b> and <u>underlined</u>.
+                </p>
+            </div>
+            <div class="columns is-centered has-text-justified">
+                <td colspan="3">
+                    <img src="static/images/quant_results.png" alt="quantitative_comparisons" width="1000" />
+                </td>
+            </div>
+        </div>
+        
+        <!-- Qualitative Comparisons -->
+        <div class="container is-max-desktop" style="margin-top: 40px;">
+            <div class="has-text-centered" style="margin-bottom: 20px;">
+                <h3 class="title is-3" style="margin-bottom: 10px !important;">Qualitative Comparisons</h3>
+            </div>
+            <div class="content has-text-justified">
+                <p>
+                    Compared to other methods, our IdentityStory exhibits remarkable performance in handling human-centric scenarios, enabling consistent generation of human characters with only text as input. <i>Zoom in for better view.</i>
+                </p>
+            </div>
+            <div class="columns is-centered">
+                <div class="column is-full">
+                    <div class="carousel-container" style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto; padding: 0 100px;">
+                        <div class="carousel-images">
+                            <img id="qual-image" src="static/images/qual_results.png" alt="qualitative_comparisons" style="width: 100%; display: block;" />
+                        </div>
+                        <button id="qual-prev-btn" class="button is-rounded is-large" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); border: none; z-index: 10; cursor: pointer; background-color: #e5e7eb; color: #374151; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                            <span class="icon is-large">
+                                <i class="fas fa-angle-left"></i>
+                            </span>
+                        </button>
+                        <button id="qual-next-btn" class="button is-rounded is-large" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); border: none; z-index: 10; cursor: pointer; background-color: #e5e7eb; color: #374151; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                            <span class="icon is-large">
+                                <i class="fas fa-angle-right"></i>
+                            </span>
+                        </button>
+                        <div class="carousel-indicators" style="text-align: center; margin-top: 10px;">
+                            <span class="dot" data-index="0" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                            <span class="dot" data-index="1" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                            <span class="dot" data-index="2" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Experiments -->
+
+
+    <!-- More Applications -->
+    <section class="section hero is-small" style="padding: 0rem 0;">
+        <div class="container is-max-desktop" style="margin-top: 0px;">
+            <div class="has-text-centered" style="margin-bottom: 10px;">
+                <h2 class="title is-3" style="margin-bottom: 10px !important;">More Applications</h2>
+            </div>
+            <div class="content has-text-justified">
+                <p id="app-text">
+                    <b>Infinite-length Story Generation.</b> IdentityStory supports infinite-length story generation, due to its decoupled nature, maintaining consistent character identities and coherent narratives across long sequences.
+                </p>
+            </div>
+            <div class="columns is-centered">
+                <div class="column is-full">
+                    <div class="carousel-container" style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto; padding: 0 100px;">
+                        <div class="carousel-images">
+                            <img id="app-image" src="static/images/inf_length.png" alt="Infinite Length Story" style="width: 100%; display: block;" />
+                        </div>
+                        <button id="app-prev-btn" class="button is-rounded is-large" style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); border: none; z-index: 10; cursor: pointer; background-color: #e5e7eb; color: #374151; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                            <span class="icon is-large">
+                                <i class="fas fa-angle-left"></i>
+                            </span>
+                        </button>
+                        <button id="app-next-btn" class="button is-rounded is-large" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); border: none; z-index: 10; cursor: pointer; background-color: #e5e7eb; color: #374151; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; padding: 0;">
+                            <span class="icon is-large">
+                                <i class="fas fa-angle-right"></i>
+                            </span>
+                        </button>
+                        <div class="carousel-indicators-app" style="text-align: center; margin-top: 10px;">
+                            <span class="dot-app" data-index="0" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                            <span class="dot-app" data-index="1" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                            <span class="dot-app" data-index="2" style="height: 15px; width: 15px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 5px; cursor: pointer;"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End More Applications -->
+
+    <!--BibTex citation -->
+    <section class="section" id="BibTeX">
+        <div class="hero-body">
+            <div class="container is-max-desktop content">
+                <h2 class="title">BibTeX</h2>
+                <pre><code>@article{zhou2025identitystory, 
+    title={IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation}, 
+    author={Zhou, Donghao and Lin, Jingyu and Shen, Guibao and Liu, Quande and Gao, Jialin and Liu, Lihao and Du, Lan and Chen, Cunjian and Fu, Chi-Wing and Hu, Xiaowei and Heng, Pheng-Ann}, 
+    journal={arXiv preprint arXiv:2512.23519}, 
+    year={2025} 
+}</code></pre>
+            </div>
+        </div>
+    </section>
+    <!--End BibTex citation -->
+
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="columns is-centered">
+                <div class="column is-8">
+                    <div class="content">
+                        <p>
+                            This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+                            Commons Attribution-ShareAlike 4.0 International License</a>.
+                            Website source code based on the <a href="https://nerfies.github.io/"> Nerfies</a> project page. If you want to reuse their <a
+                            href="https://github.com/nerfies/nerfies.github.io">source code</a>, please credit them appropriately.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <script>
+        $(document).ready(function () {
+            // Existing carousel code
+            var carouselItems = $('.carousel .item');
+            var numItems = carouselItems.length;
+            var numVideos = 5;
+            var currentIndex = 0;
+
+            $('.carousel').on('click', function () {
+                currentIndex++;
+                if (currentIndex + numVideos <= numItems) {
+                    carouselItems.removeClass('active');
+                    carouselItems.slice(currentIndex, currentIndex + numVideos).addClass('active');
+                } else {
+                    currentIndex = 0;
+                    carouselItems.removeClass('active');
+                    carouselItems.slice(currentIndex, currentIndex + numVideos).addClass('active');
+                }
+            });
+
+            carouselItems.slice(currentIndex, currentIndex + numVideos).addClass('active');
+
+            // Qualitative Comparisons Image Switcher
+            var qualImages = [
+                "static/images/qual_results.png",
+                "static/images/qual_results_more_1.png",
+                "static/images/qual_results_more_2.png"
+            ];
+            var qualIndex = 0;
+            
+            function updateQualImage() {
+                $('#qual-image').attr('src', qualImages[qualIndex]);
+                $('.dot').css('background-color', '#bbb');
+                $('.dot[data-index="' + qualIndex + '"]').css('background-color', '#717171');
+            }
+            
+            // Initialize the first dot as active
+            updateQualImage();
+            
+            $('#qual-prev-btn').click(function() {
+                qualIndex = (qualIndex - 1 + qualImages.length) % qualImages.length;
+                updateQualImage();
+            });
+            
+            $('#qual-next-btn').click(function() {
+                qualIndex = (qualIndex + 1) % qualImages.length;
+                updateQualImage();
+            });
+
+            $('.dot').click(function() {
+                qualIndex = $(this).data('index');
+                updateQualImage();
+            });
+
+            // More Applications Switcher
+            var appData = [
+                {
+                    img: "static/images/inf_length.png",
+                    text: "<b>Infinite-length Story Generation.</b> IdentityStory supports infinite-length story generation, due to its decoupled nature, maintaining consistent character identities and coherent narratives across long sequences."
+                },
+                {
+                    img: "static/images/app_commu.png",
+                    text: "<b>Combining with Community Tools.</b> IdentityStory is compatible with various community tools such as ControlNet and stylized base models, enabling precise control over structure and style while preserving character identity."
+                },
+                {
+                    img: "static/images/art_char.png",
+                    text: "<b>Dynamic Character Composition.</b> Our framework effectively handles multi-character scenarios, allowing for dynamic composition and interaction of different characters while preserving their individual identities."
+                }
+            ];
+            var appIndex = 0;
+
+            function updateAppContent() {
+                $('#app-image').attr('src', appData[appIndex].img);
+                $('#app-text').html(appData[appIndex].text);
+                $('.dot-app').css('background-color', '#bbb');
+                $('.dot-app[data-index="' + appIndex + '"]').css('background-color', '#717171');
+            }
+
+            // Initialize
+            updateAppContent();
+
+            $('#app-prev-btn').click(function() {
+                appIndex = (appIndex - 1 + appData.length) % appData.length;
+                updateAppContent();
+            });
+
+            $('#app-next-btn').click(function() {
+                appIndex = (appIndex + 1) % appData.length;
+                updateAppContent();
+            });
+
+            $('.dot-app').click(function() {
+                appIndex = $(this).data('index');
+                updateAppContent();
+            });
+        });
+    </script>
+
+</body>
+
+</html>
