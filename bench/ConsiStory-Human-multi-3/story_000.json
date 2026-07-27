@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, jogging together on a park trail",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, sketching nature on a notebook",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing frisbee in the open field",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, having a picnic on the grass",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, feeding birds near a pond",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, practicing yoga under the trees",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, reading books on a park bench",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, taking photos of the landscape",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, flying kites on a sunny day",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Native American boy with short, straight dark brown hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing acoustic guitar by the lake"
+    ],
+    "token": [
+        "girl",
+        "boy",
+        "woman"
+    ],
+    "character": [
+        "young African girl with short, curly black hair and smooth dark skin",
+        "young Native American boy with short, straight dark brown hair and light brown skin",
+        "elderly Hispanic woman with short, curly white hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "jogging together on a park trail",
+        "sketching nature on a notebook",
+        "playing frisbee in the open field",
+        "having a picnic on the grass",
+        "feeding birds near a pond",
+        "practicing yoga under the trees",
+        "reading books on a park bench",
+        "taking photos of the landscape",
+        "flying kites on a sunny day",
+        "playing acoustic guitar by the lake"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, wearing a traditional kurta in a peaceful garden",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, sitting at a wooden table drinking tea in a cozy living room",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, wearing glasses in a home office",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, standing by a serene riverbank at dawn",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, holding a book in a sunlit park",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, wearing a sweater in a busy marketplace",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, sitting on a porch enjoying the morning air",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, wearing a sunhat in a lush garden",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, reading a newspaper in a quiet café",
+        "A close-up photo of an elderly South Asian man with short, silver hair and dark brown skin, painting on an easel in a community art center"
+    ],
+    "token": "man",
+    "character": "elderly South Asian man with short, silver hair and dark brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional kurta in a peaceful garden",
+        "sitting at a wooden table drinking tea in a cozy living room",
+        "wearing glasses in a home office",
+        "standing by a serene riverbank at dawn",
+        "holding a book in a sunlit park",
+        "wearing a sweater in a busy marketplace",
+        "sitting on a porch enjoying the morning air",
+        "wearing a sunhat in a lush garden",
+        "reading a newspaper in a quiet café",
+        "painting on an easel in a community art center"
+    ],
+    "style": "A close-up photo of"
+}

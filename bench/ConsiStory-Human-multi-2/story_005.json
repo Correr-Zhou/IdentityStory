@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, playing chess under dim candlelight",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, painting on a large shared canvas",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, discussing plans over a wooden table",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, writing notes on a glowing tablet",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, laughing together near a vintage lamp",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, drawing sketches under natural sunlight",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, sharing drinks by a tall window",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, typing on laptops in a cozy corner",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, reading aloud near a flickering fireplace",
+        "A close-up photo of young South Asian woman with long, straight dark hair and warm brown skin, young Middle Eastern man with short, black hair and olive skin, collaborating on a project with scattered papers"
+    ],
+    "token": [
+        "woman",
+        "man"
+    ],
+    "character": [
+        "young South Asian woman with long, straight dark hair and warm brown skin",
+        "young Middle Eastern man with short, black hair and olive skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing chess under dim candlelight",
+        "painting on a large shared canvas",
+        "discussing plans over a wooden table",
+        "writing notes on a glowing tablet",
+        "laughing together near a vintage lamp",
+        "drawing sketches under natural sunlight",
+        "sharing drinks by a tall window",
+        "typing on laptops in a cozy corner",
+        "reading aloud near a flickering fireplace",
+        "collaborating on a project with scattered papers"
+    ],
+    "style": "A close-up photo of"
+}

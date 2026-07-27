@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, wearing a casual blouse in a home kitchen",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, sitting on a porch with a mug of tea",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, wearing sportswear in a local gym",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, standing by a riverbank during a sunny day",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, holding a shopping bag in a busy street market",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, wearing a floral dress in a home garden",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, sitting at a desk writing in a journal",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, wearing a sunhat in a park",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, reading a book in a cozy café",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length wavy brown hair and freckles, pruning plants in a home greenhouse"
+    ],
+    "token": "woman",
+    "character": "middle-aged Latina woman with shoulder-length wavy brown hair and freckles",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a casual blouse in a home kitchen",
+        "sitting on a porch with a mug of tea",
+        "wearing sportswear in a local gym",
+        "standing by a riverbank during a sunny day",
+        "holding a shopping bag in a busy street market",
+        "wearing a floral dress in a home garden",
+        "sitting at a desk writing in a journal",
+        "wearing a sunhat in a park",
+        "reading a book in a cozy café",
+        "pruning plants in a home greenhouse"
+    ],
+    "style": "A close-up photo of"
+}

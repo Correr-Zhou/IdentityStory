@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, playing video games on a shared screen",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, painting abstract art on a large canvas",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, studying books under a desk lamp",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, discussing blueprints over a drafting table",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, mixing paint colors on a palette",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, folding origami on a clean surface",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, typing codes on illuminated keyboards",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, sharing drinks at a decorated counter",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, writing notes in a dimly lit room",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, designing posters on a bright tablet"
+    ],
+    "token": [
+        "boy",
+        "girl"
+    ],
+    "character": [
+        "young Middle Eastern boy with short, curly black hair and light brown skin",
+        "young South Asian girl with long, wavy black hair and tan skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing video games on a shared screen",
+        "painting abstract art on a large canvas",
+        "studying books under a desk lamp",
+        "discussing blueprints over a drafting table",
+        "mixing paint colors on a palette",
+        "folding origami on a clean surface",
+        "typing codes on illuminated keyboards",
+        "sharing drinks at a decorated counter",
+        "writing notes in a dimly lit room",
+        "designing posters on a bright tablet"
+    ],
+    "style": "A close-up photo of"
+}

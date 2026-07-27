@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, sitting on a park bench eating ice cream",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, wearing a hoodie in a busy market",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, standing by the ocean at dawn",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, holding a kite in a sunny field",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, wearing a casual t-shirt in a backyard",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, sitting at a kitchen table drawing",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, wearing a baseball cap in a vibrant garden",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, reading a comic book in a treehouse",
+        "A close-up photo of a young East Asian boy with short, straight black hair and fair skin, planting flowers with his parent in a backyard garden"
+    ],
+    "token": "boy",
+    "character": "young East Asian boy with short, straight black hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a classroom",
+        "sitting on a park bench eating ice cream",
+        "wearing a hoodie in a busy market",
+        "standing by the ocean at dawn",
+        "holding a kite in a sunny field",
+        "wearing a casual t-shirt in a backyard",
+        "sitting at a kitchen table drawing",
+        "wearing a baseball cap in a vibrant garden",
+        "reading a comic book in a treehouse",
+        "planting flowers with his parent in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

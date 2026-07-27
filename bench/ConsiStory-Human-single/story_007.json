@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, wearing a traditional blouse in a lush forest",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, sitting by a riverside playing with stones",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, wearing a colorful headband in a bustling village market",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, standing on a wooden dock at sunset",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, holding a basket in a vibrant meadow",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, wearing a casual dress in a cozy cabin",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, sitting on a log near a campfire",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, reading a storybook under a large tree",
+        "A close-up photo of a young Indigenous girl with long, straight black hair and tan skin, helping her grandmother in a garden"
+    ],
+    "token": "girl",
+    "character": "young Indigenous girl with long, straight black hair and tan skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional blouse in a lush forest",
+        "sitting by a riverside playing with stones",
+        "wearing a colorful headband in a bustling village market",
+        "standing on a wooden dock at sunset",
+        "holding a basket in a vibrant meadow",
+        "wearing a casual dress in a cozy cabin",
+        "sitting on a log near a campfire",
+        "wearing a school uniform in a classroom",
+        "reading a storybook under a large tree",
+        "helping her grandmother in a garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, wearing a cardigan in a cozy living room",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, sitting at an outdoor café with a cup of tea",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, wearing a floral dress in a home garden",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, standing by a lakeside during sunset",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, holding a book in a peaceful park",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, wearing a stylish blazer in a modern office",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, sitting on a park bench knitting a scarf",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, wearing a sunhat in a flower garden",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, reading a letter in a cozy study room",
+        "A close-up photo of a middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes, watering plants in a sunny backyard"
+    ],
+    "token": "woman",
+    "character": "middle-aged Mixed-race woman with shoulder-length wavy brown hair and hazel eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a cardigan in a cozy living room",
+        "sitting at an outdoor café with a cup of tea",
+        "wearing a floral dress in a home garden",
+        "standing by a lakeside during sunset",
+        "holding a book in a peaceful park",
+        "wearing a stylish blazer in a modern office",
+        "sitting on a park bench knitting a scarf",
+        "wearing a sunhat in a flower garden",
+        "reading a letter in a cozy study room",
+        "watering plants in a sunny backyard"
+    ],
+    "style": "A close-up photo of"
+}

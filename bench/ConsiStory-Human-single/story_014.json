@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, sitting on a park bench with a book",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, wearing a floral dress in a flower garden",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, standing by a river during sunset",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, holding a paintbrush in an art studio",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, wearing a cardigan in a cozy living room",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, sitting at a kitchen table drawing",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, wearing a raincoat in a vibrant city street",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, reading a comic book in a sunny bedroom",
+        "A close-up photo of a young East Asian girl with long, straight black hair and fair skin, helping water plants in a backyard garden"
+    ],
+    "token": "girl",
+    "character": "young East Asian girl with long, straight black hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a classroom",
+        "sitting on a park bench with a book",
+        "wearing a floral dress in a flower garden",
+        "standing by a river during sunset",
+        "holding a paintbrush in an art studio",
+        "wearing a cardigan in a cozy living room",
+        "sitting at a kitchen table drawing",
+        "wearing a raincoat in a vibrant city street",
+        "reading a comic book in a sunny bedroom",
+        "helping water plants in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

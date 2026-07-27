@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, wearing a business suit in a modern office",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, sitting at a dining table enjoying a meal",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, wearing a casual dress in a bustling marketplace",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, standing by the ocean at sunset",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, holding a book in a peaceful park",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, wearing a cardigan in a cozy living room",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, sitting on a porch reading a newspaper",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, wearing a sunhat in a floral garden",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, reading a letter in a quiet study",
+        "A close-up photo of a middle-aged East Asian woman with short, straight black hair and light brown skin, arranging flowers in a sunlit room"
+    ],
+    "token": "woman",
+    "character": "middle-aged East Asian woman with short, straight black hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a business suit in a modern office",
+        "sitting at a dining table enjoying a meal",
+        "wearing a casual dress in a bustling marketplace",
+        "standing by the ocean at sunset",
+        "holding a book in a peaceful park",
+        "wearing a cardigan in a cozy living room",
+        "sitting on a porch reading a newspaper",
+        "wearing a sunhat in a floral garden",
+        "reading a letter in a quiet study",
+        "arranging flowers in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

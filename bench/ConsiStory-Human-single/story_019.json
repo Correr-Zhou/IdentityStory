@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, wearing a traditional blouse in a lively marketplace",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, sitting on a park bench enjoying an afternoon",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, wearing a professional suit in a modern office",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, standing by a scenic lake during sunset",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, holding a cup of coffee in a cozy café",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, wearing a casual dress in a sunlit garden",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, seated at a kitchen table writing in a journal",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, wearing glasses in a quiet library",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, browsing flowers at a street market",
+        "A close-up photo of a middle-aged Latina woman with shoulder-length, curly black hair and olive skin, painting on a canvas in an art studio"
+    ],
+    "token": "woman",
+    "character": "middle-aged Latina woman with shoulder-length, curly black hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional blouse in a lively marketplace",
+        "sitting on a park bench enjoying an afternoon",
+        "wearing a professional suit in a modern office",
+        "standing by a scenic lake during sunset",
+        "holding a cup of coffee in a cozy café",
+        "wearing a casual dress in a sunlit garden",
+        "seated at a kitchen table writing in a journal",
+        "wearing glasses in a quiet library",
+        "browsing flowers at a street market",
+        "painting on a canvas in an art studio"
+    ],
+    "style": "A close-up photo of"
+}

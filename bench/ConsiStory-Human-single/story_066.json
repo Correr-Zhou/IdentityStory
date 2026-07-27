@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, wearing a professional blazer in a modern office",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, sitting on a park bench with a cup of coffee",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, wearing a casual sweater in a cozy living room",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, standing by the beach at sunset",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, holding a book in a quiet park",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, wearing a sunhat in a flower garden",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, sitting at a café table writing in a journal",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, wearing glasses in a busy bookstore",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, reading a newspaper in a sunny courtyard",
+        "A close-up photo of a middle-aged white woman with short, straight blonde hair and fair skin, arranging flowers in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "middle-aged white woman with short, straight blonde hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a professional blazer in a modern office",
+        "sitting on a park bench with a cup of coffee",
+        "wearing a casual sweater in a cozy living room",
+        "standing by the beach at sunset",
+        "holding a book in a quiet park",
+        "wearing a sunhat in a flower garden",
+        "sitting at a café table writing in a journal",
+        "wearing glasses in a busy bookstore",
+        "reading a newspaper in a sunny courtyard",
+        "arranging flowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

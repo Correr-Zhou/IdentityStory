@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, wearing a checkered shirt in a cozy library",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, sitting on a park bench feeding pigeons",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, wearing glasses in a sunny garden",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, standing on a wooden pier by a serene lake",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, holding a paintbrush in front of an easel in a cluttered studio",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, wearing a turtleneck sweater in a warmly lit living room",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, leaning against a bookshelf in a quaint bookstore",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, wearing a flannel shirt in a sunny backyard garden",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, reading a newspaper in a busy café",
+        "A close-up photo of an elderly Caucasian man with short, white hair and wrinkled skin, watering flowers in a peaceful garden"
+    ],
+    "token": "man",
+    "character": "an elderly Caucasian man with short, white hair and wrinkled skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "background",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a checkered shirt in a cozy library",
+        "sitting on a park bench feeding pigeons",
+        "wearing glasses in a sunny garden",
+        "standing on a wooden pier by a serene lake",
+        "holding a paintbrush in front of an easel in a cluttered studio",
+        "wearing a turtleneck sweater in a warmly lit living room",
+        "leaning against a bookshelf in a quaint bookstore",
+        "wearing a flannel shirt in a sunny backyard garden",
+        "reading a newspaper in a busy café",
+        "watering flowers in a peaceful garden"
+    ],
+    "style": "A close-up photo of"
+}

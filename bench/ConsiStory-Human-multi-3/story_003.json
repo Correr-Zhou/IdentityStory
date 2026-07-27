@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, building sandcastles together",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, collecting seashells by the shore",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, surfing small waves near the beach",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, sitting around a bonfire at sunset",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, running along the water's edge",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, practicing yoga on the sandy beach",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, drawing patterns in the wet sand",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, taking photos of the ocean view",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, sharing drinks under a beach umbrella",
+        "A close-up photo of young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, young South Asian woman with long, straight dark hair and warm brown skin, flying kites near the shoreline"
+    ],
+    "token": [
+        "man",
+        "girl",
+        "woman"
+    ],
+    "character": [
+        "young Black man with short, curly hair and smooth dark skin",
+        "young South Asian girl with long, wavy black hair and tan skin",
+        "young South Asian woman with long, straight dark hair and warm brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "building sandcastles together",
+        "collecting seashells by the shore",
+        "surfing small waves near the beach",
+        "sitting around a bonfire at sunset",
+        "running along the water's edge",
+        "practicing yoga on the sandy beach",
+        "drawing patterns in the wet sand",
+        "taking photos of the ocean view",
+        "sharing drinks under a beach umbrella",
+        "flying kites near the shoreline"
+    ],
+    "style": "A close-up photo of"
+}

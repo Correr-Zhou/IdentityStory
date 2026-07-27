@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, wearing a plaid shirt in a woodworking shop",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, sitting on a rocking chair on a porch",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, wearing a sunhat in a lush vegetable garden",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, standing by the ocean during sunset",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, holding a paintbrush while painting a canvas",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, wearing a sweater in a cozy living room",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, sitting at a dining table reading a newspaper",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, wearing a casual jacket in an urban park",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, reading a book in a quiet library",
+        "A close-up photo of an elderly Hispanic man with short, white hair and light brown skin, watering flowers in a backyard"
+    ],
+    "token": "man",
+    "character": "elderly Hispanic man with short, white hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a plaid shirt in a woodworking shop",
+        "sitting on a rocking chair on a porch",
+        "wearing a sunhat in a lush vegetable garden",
+        "standing by the ocean during sunset",
+        "holding a paintbrush while painting a canvas",
+        "wearing a sweater in a cozy living room",
+        "sitting at a dining table reading a newspaper",
+        "wearing a casual jacket in an urban park",
+        "reading a book in a quiet library",
+        "watering flowers in a backyard"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, wearing a formal shirt in a modern office",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, sitting at a dining table with a cup of tea",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, wearing casual clothes in a bustling market",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, standing by the ocean at sunset",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, holding a book in a quiet park",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, wearing glasses in a cozy living room",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, sitting on a porch reading a newspaper",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, wearing a traditional kurta in a colorful garden",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, reading a letter in a home office",
+        "A close-up photo of a middle-aged Indian man with short, black hair and dark brown eyes, watering plants in a backyard garden"
+    ],
+    "token": "man",
+    "character": "middle-aged Indian man with short, black hair and dark brown eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a formal shirt in a modern office",
+        "sitting at a dining table with a cup of tea",
+        "wearing casual clothes in a bustling market",
+        "standing by the ocean at sunset",
+        "holding a book in a quiet park",
+        "wearing glasses in a cozy living room",
+        "sitting on a porch reading a newspaper",
+        "wearing a traditional kurta in a colorful garden",
+        "reading a letter in a home office",
+        "watering plants in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, playing board games on a round table",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, reading books in a cozy library corner",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, cooking together in a modern kitchen",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, writing on sticky notes by a bright window",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, assembling a puzzle on a wooden desk",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, playing instruments under warm ceiling lights",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, sketching designs on a large drafting table",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, laughing together near a glowing fireplace",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, mixing drinks on a marble countertop",
+        "A close-up photo of young Native American boy with short, straight dark brown hair and light brown skin, young Latina girl with short, curly black hair and light brown skin, middle-aged African woman with short, curly black hair and dark brown skin, watching a movie on a large screen"
+    ],
+    "token": [
+        "boy",
+        "girl",
+        "woman"
+    ],
+    "character": [
+        "young Native American boy with short, straight dark brown hair and light brown skin",
+        "young Latina girl with short, curly black hair and light brown skin",
+        "middle-aged African woman with short, curly black hair and dark brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing board games on a round table",
+        "reading books in a cozy library corner",
+        "cooking together in a modern kitchen",
+        "writing on sticky notes by a bright window",
+        "assembling a puzzle on a wooden desk",
+        "playing instruments under warm ceiling lights",
+        "sketching designs on a large drafting table",
+        "laughing together near a glowing fireplace",
+        "mixing drinks on a marble countertop",
+        "watching a movie on a large screen"
+    ],
+    "style": "A close-up photo of"
+}

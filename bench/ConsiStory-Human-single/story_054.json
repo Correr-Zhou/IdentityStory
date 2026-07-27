@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, wearing a traditional dress in a serene landscape",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, sitting on a porch with a cup of coffee",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, wearing a casual t-shirt in a busy marketplace",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, standing by a waterfall at sunrise",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, holding a sketchbook in a tranquil park",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, wearing a cozy sweater in a sunlit room",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, sitting on a park bench reading a book",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, wearing glasses in a peaceful library",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, reading a magazine in a bright kitchen",
+        "A close-up photo of a young Indigenous woman with long, straight black hair and light brown skin, arranging flowers in a backyard garden"
+    ],
+    "token": "woman",
+    "character": "young Indigenous woman with long, straight black hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a serene landscape",
+        "sitting on a porch with a cup of coffee",
+        "wearing a casual t-shirt in a busy marketplace",
+        "standing by a waterfall at sunrise",
+        "holding a sketchbook in a tranquil park",
+        "wearing a cozy sweater in a sunlit room",
+        "sitting on a park bench reading a book",
+        "wearing glasses in a peaceful library",
+        "reading a magazine in a bright kitchen",
+        "arranging flowers in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

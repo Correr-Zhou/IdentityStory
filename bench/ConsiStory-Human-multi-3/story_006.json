@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, playing musical instruments together",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, sharing a meal at a table",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, painting a canvas with brushes",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, discussing ideas in a bright room",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, posing for a photo in a studio",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, dancing in sync under colorful lights",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, drawing sketches on a notebook",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, laughing while holding coffee mugs",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, gesturing during a lively conversation",
+        "A close-up photo of young Black boy with short, curly hair and bright eyes, young Black man with short, curly hair and smooth dark skin, middle-aged African woman with short, curly black hair and dark brown skin, working on a laptop side by side"
+    ],
+    "token": [
+        "boy",
+        "man",
+        "woman"
+    ],
+    "character": [
+        "young Black boy with short, curly hair and bright eyes",
+        "young Black man with short, curly hair and smooth dark skin",
+        "middle-aged African woman with short, curly black hair and dark brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing musical instruments together",
+        "sharing a meal at a table",
+        "painting a canvas with brushes",
+        "discussing ideas in a bright room",
+        "posing for a photo in a studio",
+        "dancing in sync under colorful lights",
+        "drawing sketches on a notebook",
+        "laughing while holding coffee mugs",
+        "gesturing during a lively conversation",
+        "working on a laptop side by side"
+    ],
+    "style": "A close-up photo of"
+}

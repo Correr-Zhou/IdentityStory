@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, painting together with colorful brushes",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, dancing gracefully in a dimly lit room",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, discussing ideas at a coffee table",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, preparing food in a modern kitchen",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing instruments in a recording studio",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, with sunlight streaming through large windows",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, in a cozy library surrounded by books",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, sketching designs on paper with pencils",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, laughing together in a vibrant garden",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, with rain gently falling outside the window"
+    ],
+    "token": [
+        "girl",
+        "woman"
+    ],
+    "character": [
+        "young Latina girl with short, curly black hair and light brown skin",
+        "elderly Hispanic woman with short, curly white hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "painting together with colorful brushes",
+        "dancing gracefully in a dimly lit room",
+        "discussing ideas at a coffee table",
+        "preparing food in a modern kitchen",
+        "playing instruments in a recording studio",
+        "with sunlight streaming through large windows",
+        "in a cozy library surrounded by books",
+        "sketching designs on paper with pencils",
+        "laughing together in a vibrant garden",
+        "with rain gently falling outside the window"
+    ],
+    "style": "A close-up photo of"
+}

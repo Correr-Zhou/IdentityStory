@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, wearing a school uniform in a lively classroom",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, sitting at a kitchen table doing homework",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, wearing a sundress in a colorful garden",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, standing by a fountain in a bustling plaza",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, holding a teddy bear in a cozy bedroom",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, wearing a hoodie in a busy park",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, sitting on a porch drawing in a sketchbook",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, wearing glasses in a quiet library",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, reading a comic book in a sunlit living room",
+        "A close-up photo of a young Middle Eastern girl with long, wavy black hair and olive skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young Middle Eastern girl with long, wavy black hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a lively classroom",
+        "sitting at a kitchen table doing homework",
+        "wearing a sundress in a colorful garden",
+        "standing by a fountain in a bustling plaza",
+        "holding a teddy bear in a cozy bedroom",
+        "wearing a hoodie in a busy park",
+        "sitting on a porch drawing in a sketchbook",
+        "wearing glasses in a quiet library",
+        "reading a comic book in a sunlit living room",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

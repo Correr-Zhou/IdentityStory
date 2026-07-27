@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, playing frisbee on a grassy field",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, having a picnic under a large tree",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, flying kites on a windy hill",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, sketching landscapes near a calm lake",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, planting flowers in a community garden",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, building sandcastles on a sunny beach",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, cycling together on a forest path",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, playing guitars around a small campfire",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, hiking and pointing at distant mountains",
+        "A close-up photo of middle-aged white woman with short, straight blonde hair and fair skin, young Black man with short, curly hair and smooth dark skin, young South Asian girl with long, wavy black hair and tan skin, painting a mural on an outdoor wall"
+    ],
+    "token": [
+        "woman",
+        "man",
+        "girl"
+    ],
+    "character": [
+        "middle-aged white woman with short, straight blonde hair and fair skin",
+        "young Black man with short, curly hair and smooth dark skin",
+        "young South Asian girl with long, wavy black hair and tan skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing frisbee on a grassy field",
+        "having a picnic under a large tree",
+        "flying kites on a windy hill",
+        "sketching landscapes near a calm lake",
+        "planting flowers in a community garden",
+        "building sandcastles on a sunny beach",
+        "cycling together on a forest path",
+        "playing guitars around a small campfire",
+        "hiking and pointing at distant mountains",
+        "painting a mural on an outdoor wall"
+    ],
+    "style": "A close-up photo of"
+}

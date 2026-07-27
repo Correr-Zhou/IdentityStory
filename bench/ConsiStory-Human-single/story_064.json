@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, wearing a school uniform in a lively playground",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, sitting at a desk drawing in a notebook",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, wearing a sundress in a blooming garden",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, standing by a river at sunset",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, holding a kite in a sunny park",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, wearing a hoodie in a bustling city park",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, sitting on a porch reading a book",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, wearing a casual t-shirt in a neighborhood street",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, reading a storybook in a cozy bedroom",
+        "A close-up photo of a young East Asian girl with short, straight black hair and fair skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young East Asian girl with short, straight black hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a lively playground",
+        "sitting at a desk drawing in a notebook",
+        "wearing a sundress in a blooming garden",
+        "standing by a river at sunset",
+        "holding a kite in a sunny park",
+        "wearing a hoodie in a bustling city park",
+        "sitting on a porch reading a book",
+        "wearing a casual t-shirt in a neighborhood street",
+        "reading a storybook in a cozy bedroom",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

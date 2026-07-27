@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, wearing a t-shirt in a sunny meadow",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, sitting on a tree stump reading a book",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, wearing a hoodie in a bustling schoolyard",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, standing by a river during a nature hike",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, holding a fishing rod in a calm lake",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, wearing a baseball cap in a lively park",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, sitting on a porch drawing in a sketchbook",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, reading a comic book in a cozy living room",
+        "A close-up photo of a young Native American boy with short, straight black hair and light brown skin, helping his father plant seeds in the garden"
+    ],
+    "token": "boy",
+    "character": "young Native American boy with short, straight black hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a t-shirt in a sunny meadow",
+        "sitting on a tree stump reading a book",
+        "wearing a hoodie in a bustling schoolyard",
+        "standing by a river during a nature hike",
+        "holding a fishing rod in a calm lake",
+        "wearing a baseball cap in a lively park",
+        "sitting on a porch drawing in a sketchbook",
+        "wearing a school uniform in a classroom",
+        "reading a comic book in a cozy living room",
+        "helping his father plant seeds in the garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing chess at a sunny park",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, dancing together under colorful lights",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, painting a mural on a brick wall",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, reading books in a cozy library",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, singing karaoke in a small room",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, cooking together in a modern kitchen",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, posing for a photo under cherry blossoms",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, discussing ideas in a bright office",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, celebrating with cake in a decorated room",
+        "A close-up photo of middle-aged Hispanic man with short, straight black hair and light brown skin, elderly Hispanic woman with short, curly white hair and light brown skin, laughing together in a bustling cafe"
+    ],
+    "token": [
+        "man",
+        "woman"
+    ],
+    "character": [
+        "middle-aged Hispanic man with short, straight black hair and light brown skin",
+        "elderly Hispanic woman with short, curly white hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing chess at a sunny park",
+        "dancing together under colorful lights",
+        "painting a mural on a brick wall",
+        "reading books in a cozy library",
+        "singing karaoke in a small room",
+        "cooking together in a modern kitchen",
+        "posing for a photo under cherry blossoms",
+        "discussing ideas in a bright office",
+        "celebrating with cake in a decorated room",
+        "laughing together in a bustling cafe"
+    ],
+    "style": "A close-up photo of"
+}

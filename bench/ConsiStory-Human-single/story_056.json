@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, wearing a sari in a bustling market",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, sitting on a porch with a cup of tea",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, wearing glasses in a cozy living room",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, standing by a lake during sunset",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, holding a book in a sunlit garden",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, wearing a sweater in a bustling city street",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, sitting on a park bench knitting",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, wearing a bonnet in a serene orchard",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, reading a letter in a quiet study",
+        "A close-up photo of an elderly South Asian woman with long, silver hair and medium brown skin, arranging flowers in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "elderly South Asian woman with long, silver hair and medium brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a sari in a bustling market",
+        "sitting on a porch with a cup of tea",
+        "wearing glasses in a cozy living room",
+        "standing by a lake during sunset",
+        "holding a book in a sunlit garden",
+        "wearing a sweater in a bustling city street",
+        "sitting on a park bench knitting",
+        "wearing a bonnet in a serene orchard",
+        "reading a letter in a quiet study",
+        "arranging flowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

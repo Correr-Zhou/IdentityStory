@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, wearing a stylish coat in a bustling city street",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, sitting at a coffee shop table with a cup of latte",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, wearing a sunhat in a vibrant flower garden",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, standing by the ocean at sunset",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, holding a camera in a historic town square",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, wearing a cozy sweater in a reading nook",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, sitting on a park bench writing in a journal",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, wearing a casual blouse in a busy market",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, reading a travel guide in a home office",
+        "A close-up photo of a young East Asian woman with long, straight black hair and fair skin, arranging flowers in a sunlit living room"
+    ],
+    "token": "woman",
+    "character": "young East Asian woman with long, straight black hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a stylish coat in a bustling city street",
+        "sitting at a coffee shop table with a cup of latte",
+        "wearing a sunhat in a vibrant flower garden",
+        "standing by the ocean at sunset",
+        "holding a camera in a historic town square",
+        "wearing a cozy sweater in a reading nook",
+        "sitting on a park bench writing in a journal",
+        "wearing a casual blouse in a busy market",
+        "reading a travel guide in a home office",
+        "arranging flowers in a sunlit living room"
+    ],
+    "style": "A close-up photo of"
+}

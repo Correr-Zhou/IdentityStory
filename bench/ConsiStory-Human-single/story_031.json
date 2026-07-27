@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a hoodie in a bustling city street",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, sitting at a café table with a laptop",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a t-shirt in a vibrant park",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, standing by the beach during sunrise",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, holding a camera in an art gallery",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing glasses in a modern office",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, sitting on a park bench reading a book",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a casual shirt in a cozy living room",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, checking his phone in a busy market",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, writing in a journal in a quiet library"
+    ],
+    "token": "man",
+    "character": "young Black man with short, curly hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a hoodie in a bustling city street",
+        "sitting at a café table with a laptop",
+        "wearing a t-shirt in a vibrant park",
+        "standing by the beach during sunrise",
+        "holding a camera in an art gallery",
+        "wearing glasses in a modern office",
+        "sitting on a park bench reading a book",
+        "wearing a casual shirt in a cozy living room",
+        "checking his phone in a busy market",
+        "writing in a journal in a quiet library"
+    ],
+    "style": "A close-up photo of"
+}

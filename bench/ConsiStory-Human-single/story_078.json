@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, wearing a traditional blouse in a colorful market",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, sitting in a rocking chair knitting",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, wearing a sunhat in a blooming garden",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, standing by a river at sunset",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, holding a basket of grapes in a vineyard",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, wearing a cozy sweater in a sunlit living room",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, sitting on a porch reading a book",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, reading a letter in a peaceful study",
+        "A close-up photo of an elderly Hispanic woman with short, curly gray hair and olive skin, arranging flowers in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "elderly Hispanic woman with short, curly gray hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional blouse in a colorful market",
+        "sitting in a rocking chair knitting",
+        "wearing a sunhat in a blooming garden",
+        "standing by a river at sunset",
+        "holding a basket of grapes in a vineyard",
+        "wearing a cozy sweater in a sunlit living room",
+        "sitting on a porch reading a book",
+        "wearing glasses in a quiet library",
+        "reading a letter in a peaceful study",
+        "arranging flowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

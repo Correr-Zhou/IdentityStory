@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, wearing a business suit in a modern office",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, sitting on a park bench reading a book",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, wearing a casual t-shirt in a bustling city street",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, standing by the beach at sunset",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, holding a cup of coffee in a cozy café",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, wearing a cardigan in a sunny garden",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, sitting at a dining table writing in a journal",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, wearing glasses in a library",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, reading a letter in a quiet living room",
+        "A close-up photo of a middle-aged Black woman with short, curly hair and dark brown skin, watering plants in a backyard garden"
+    ],
+    "token": "woman",
+    "character": "middle-aged Black woman with short, curly hair and dark brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a business suit in a modern office",
+        "sitting on a park bench reading a book",
+        "wearing a casual t-shirt in a bustling city street",
+        "standing by the beach at sunset",
+        "holding a cup of coffee in a cozy café",
+        "wearing a cardigan in a sunny garden",
+        "sitting at a dining table writing in a journal",
+        "wearing glasses in a library",
+        "reading a letter in a quiet living room",
+        "watering plants in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, wearing a sari in a vibrant marketplace",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, sitting at a dining table enjoying breakfast",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, wearing business attire in a modern office",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, standing by a riverbank during sunset",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, holding a cup of tea in a cozy living room",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, wearing a casual summer dress in a flower garden",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, sitting on a park bench under a large tree",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, wearing a traditional kurta in a historical town square",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, reading a letter in a quiet home office",
+        "A close-up photo of a middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes, arranging flowers in a sunlit room"
+    ],
+    "token": "woman",
+    "character": "middle-aged South Asian woman with wavy, shoulder-length black hair and warm brown eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a sari in a vibrant marketplace",
+        "sitting at a dining table enjoying breakfast",
+        "wearing business attire in a modern office",
+        "standing by a riverbank during sunset",
+        "holding a cup of tea in a cozy living room",
+        "wearing a casual summer dress in a flower garden",
+        "sitting on a park bench under a large tree",
+        "wearing a traditional kurta in a historical town square",
+        "reading a letter in a quiet home office",
+        "arranging flowers in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

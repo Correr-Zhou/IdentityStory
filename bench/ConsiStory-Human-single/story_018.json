@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, wearing a denim jacket in a bustling urban area",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, sitting on a park bench playing an acoustic guitar",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, wearing a casual t-shirt in a lively café",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, standing by a river at sunrise",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, holding a skateboard in a city park",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, wearing a flannel shirt in a cozy living room",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, sitting by a window reading a book",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, wearing a hoodie in a vibrant marketplace",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, writing in a journal in a sunny garden",
+        "A close-up photo of a young Native American man with long, dark brown hair and light brown skin, feeding birds in a quiet park"
+    ],
+    "token": "man",
+    "character": "young Native American man with long, dark brown hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a denim jacket in a bustling urban area",
+        "sitting on a park bench playing an acoustic guitar",
+        "wearing a casual t-shirt in a lively café",
+        "standing by a river at sunrise",
+        "holding a skateboard in a city park",
+        "wearing a flannel shirt in a cozy living room",
+        "sitting by a window reading a book",
+        "wearing a hoodie in a vibrant marketplace",
+        "writing in a journal in a sunny garden",
+        "feeding birds in a quiet park"
+    ],
+    "style": "A close-up photo of"
+}

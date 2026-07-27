@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a traditional dress in a serene village square",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, sitting at a wooden table drinking coffee",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a sweater in a home kitchen",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, standing by a blooming garden during spring",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, holding a basket of apples in an orchard",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing glasses in a cozy living room",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, sitting on a park bench knitting",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a sunhat in a flower garden",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, reading a book in a quiet bedroom",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, watering plants in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "elderly Latina woman with short, curly gray hair and warm brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a serene village square",
+        "sitting at a wooden table drinking coffee",
+        "wearing a sweater in a home kitchen",
+        "standing by a blooming garden during spring",
+        "holding a basket of apples in an orchard",
+        "wearing glasses in a cozy living room",
+        "sitting on a park bench knitting",
+        "wearing a sunhat in a flower garden",
+        "reading a book in a quiet bedroom",
+        "watering plants in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

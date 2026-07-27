@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, wearing a stylish jacket in a bustling city street",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, sitting at a café table enjoying a cup of coffee",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, wearing workout clothes in a modern gym",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, standing by a lakeside during a sunny day",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, holding a camera in a colorful park",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, wearing a business suit in a contemporary office",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, sitting on a park bench reading a book",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, wearing a sunhat in a flower garden",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, reading a magazine in a trendy café",
+        "A close-up photo of a young Black woman with short, curly hair and smooth skin, arranging flowers in a bright living room"
+    ],
+    "token": "woman",
+    "character": "young Black woman with short, curly hair and smooth skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a stylish jacket in a bustling city street",
+        "sitting at a café table enjoying a cup of coffee",
+        "wearing workout clothes in a modern gym",
+        "standing by a lakeside during a sunny day",
+        "holding a camera in a colorful park",
+        "wearing a business suit in a contemporary office",
+        "sitting on a park bench reading a book",
+        "wearing a sunhat in a flower garden",
+        "reading a magazine in a trendy café",
+        "arranging flowers in a bright living room"
+    ],
+    "style": "A close-up photo of"
+}

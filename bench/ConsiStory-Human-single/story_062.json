@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, wearing a colorful headwrap in a peaceful village",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, sitting on a porch weaving a basket",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, wearing a traditional dress in a bustling market",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, standing by a river at sunset",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, holding a book in a sunny garden",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, wearing a sweater in a cozy living room",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, sitting under a tree knitting",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, wearing a casual blouse in a vibrant field",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, reading a letter in a quiet room",
+        "A close-up photo of a middle-aged African woman with short, curly black hair and dark brown skin, watering plants in a lush garden"
+    ],
+    "token": "woman",
+    "character": "middle-aged African woman with short, curly black hair and dark brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a colorful headwrap in a peaceful village",
+        "sitting on a porch weaving a basket",
+        "wearing a traditional dress in a bustling market",
+        "standing by a river at sunset",
+        "holding a book in a sunny garden",
+        "wearing a sweater in a cozy living room",
+        "sitting under a tree knitting",
+        "wearing a casual blouse in a vibrant field",
+        "reading a letter in a quiet room",
+        "watering plants in a lush garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, wearing a school uniform in a brightly lit classroom",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, sitting on the grass sketching in a tranquil park",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, wearing a colorful scarf in a busy market",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, standing at the edge of a sandy beach at sunset",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, holding a camera in a bustling city square",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, wearing a hoodie in a cozy bedroom",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, sitting on a bench near a fountain with her sketchbook",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, wearing a floral dress in a sunny garden",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, reading a novel in a quiet library",
+        "A close-up photo of a teenage Latina girl with curly, dark brown hair and rosy cheeks, organizing art supplies in a colorful art studio"
+    ],
+    "token": "girl",
+    "character": "teenage Latina girl with curly, dark brown hair and rosy cheeks",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "background",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a brightly lit classroom",
+        "sitting on the grass sketching in a tranquil park",
+        "wearing a colorful scarf in a busy market",
+        "standing at the edge of a sandy beach at sunset",
+        "holding a camera in a bustling city square",
+        "wearing a hoodie in a cozy bedroom",
+        "sitting on a bench near a fountain with her sketchbook",
+        "wearing a floral dress in a sunny garden",
+        "reading a novel in a quiet library",
+        "organizing art supplies in a colorful art studio"
+    ],
+    "style": "A close-up photo of"
+}

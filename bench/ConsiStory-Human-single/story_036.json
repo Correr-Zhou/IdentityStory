@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, wearing a casual dress in a bustling city square",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, sitting at a café table with a cup of espresso",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, wearing a sunhat in a vibrant garden",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, standing by a riverside at sunset",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, holding a book in a cozy living room",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, wearing a blouse in a lively market",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, sitting on a porch knitting a scarf",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, wearing glasses in a home office",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, reading a magazine in a sunny park",
+        "A close-up photo of a middle-aged Latina woman with long, curly brown hair and olive skin, arranging fruits in a kitchen"
+    ],
+    "token": "woman",
+    "character": "middle-aged Latina woman with long, curly brown hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a casual dress in a bustling city square",
+        "sitting at a café table with a cup of espresso",
+        "wearing a sunhat in a vibrant garden",
+        "standing by a riverside at sunset",
+        "holding a book in a cozy living room",
+        "wearing a blouse in a lively market",
+        "sitting on a porch knitting a scarf",
+        "wearing glasses in a home office",
+        "reading a magazine in a sunny park",
+        "arranging fruits in a kitchen"
+    ],
+    "style": "A close-up photo of"
+}

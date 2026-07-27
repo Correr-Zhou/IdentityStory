@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, practicing music with instruments",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, working on a group assignment",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, organizing books on a shelf",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, collaborating on a coding project",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, creating art in an atelier room",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, reviewing notes before an exam",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, discussing ideas during a debate",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, preparing decorations for an event",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, brainstorming ideas for a school project",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, young South Asian woman with long, straight dark hair and warm brown skin, young Native American boy with short, straight dark brown hair and light brown skin, reviewing a map in geography class"
+    ],
+    "token": [
+        "girl",
+        "woman",
+        "boy"
+    ],
+    "character": [
+        "young Latina girl with short, curly black hair and light brown skin",
+        "young South Asian woman with long, straight dark hair and warm brown skin",
+        "young Native American boy with short, straight dark brown hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "practicing music with instruments",
+        "working on a group assignment",
+        "organizing books on a shelf",
+        "collaborating on a coding project",
+        "creating art in an atelier room",
+        "reviewing notes before an exam",
+        "discussing ideas during a debate",
+        "preparing decorations for an event",
+        "brainstorming ideas for a school project",
+        "reviewing a map in geography class"
+    ],
+    "style": "A close-up photo of"
+}

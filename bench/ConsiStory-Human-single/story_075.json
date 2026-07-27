@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, wearing a tailored suit in a modern office",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, sitting at a café table with a cup of coffee",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, wearing a cozy sweater in a warm living room",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, standing by a river at sunrise",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, holding a book in a quiet library",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, wearing a casual t-shirt in a bustling market",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, sitting on a park bench sketching in a notebook",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, wearing glasses in a cozy study",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, reading a newspaper at a sunny café table",
+        "A close-up photo of a middle-aged Black man with short, curly black hair and smooth dark skin, tending to plants in his backyard garden"
+    ],
+    "token": "man",
+    "character": "middle-aged Black man with short, curly black hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a tailored suit in a modern office",
+        "sitting at a café table with a cup of coffee",
+        "wearing a cozy sweater in a warm living room",
+        "standing by a river at sunrise",
+        "holding a book in a quiet library",
+        "wearing a casual t-shirt in a bustling market",
+        "sitting on a park bench sketching in a notebook",
+        "wearing glasses in a cozy study",
+        "reading a newspaper at a sunny café table",
+        "tending to plants in his backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

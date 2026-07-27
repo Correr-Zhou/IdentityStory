@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, wearing a casual shirt in a bustling marketplace",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, sitting on a park bench playing a guitar",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, wearing a business suit in a modern office",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, standing by the ocean at sunrise",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, holding a cup of coffee in a cozy café",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, wearing a hoodie in a vibrant city park",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, sitting at a desk writing in a journal",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, wearing a traditional kurta in a colorful garden",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, reading a book in a quiet library",
+        "A close-up photo of a young South Asian man with short, thick black hair and warm brown skin, planting flowers in a backyard garden"
+    ],
+    "token": "man",
+    "character": "young South Asian man with short, thick black hair and warm brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a casual shirt in a bustling marketplace",
+        "sitting on a park bench playing a guitar",
+        "wearing a business suit in a modern office",
+        "standing by the ocean at sunrise",
+        "holding a cup of coffee in a cozy café",
+        "wearing a hoodie in a vibrant city park",
+        "sitting at a desk writing in a journal",
+        "wearing a traditional kurta in a colorful garden",
+        "reading a book in a quiet library",
+        "planting flowers in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

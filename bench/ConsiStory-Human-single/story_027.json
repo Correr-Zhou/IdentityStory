@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, wearing a traditional dress in a colorful festival",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, sitting at a dining table with a cup of milk",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, wearing a casual t-shirt in a bustling marketplace",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, standing by a serene lake at sunset",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, holding a toy in a vibrant park",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, sitting on a porch drawing in a sketchbook",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, wearing a hoodie in a cozy living room",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, reading a storybook in a quiet bedroom",
+        "A close-up photo of a young South Asian girl with long, wavy black hair and tan skin, helping water plants in a family garden"
+    ],
+    "token": "girl",
+    "character": "young South Asian girl with long, wavy black hair and tan skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a colorful festival",
+        "sitting at a dining table with a cup of milk",
+        "wearing a casual t-shirt in a bustling marketplace",
+        "standing by a serene lake at sunset",
+        "holding a toy in a vibrant park",
+        "wearing a school uniform in a classroom",
+        "sitting on a porch drawing in a sketchbook",
+        "wearing a hoodie in a cozy living room",
+        "reading a storybook in a quiet bedroom",
+        "helping water plants in a family garden"
+    ],
+    "style": "A close-up photo of"
+}

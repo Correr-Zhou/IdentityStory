@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, practicing yoga on colorful mats",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, decorating a cake on a kitchen island",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, folding laundry on a clean sofa",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, playing video games on a shared monitor",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, discussing plans around a small coffee table",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, wrapping gifts with ribbons and paper",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, building a model airplane on a workbench",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, arranging flowers in glass vases",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, learning dance moves in a mirrored studio",
+        "A close-up photo of young African girl with short, curly black hair and smooth dark skin, young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, sipping tea near a large window"
+    ],
+    "token": [
+        "girl",
+        "boy",
+        "man"
+    ],
+    "character": [
+        "young African girl with short, curly black hair and smooth dark skin",
+        "young Middle Eastern boy with short, curly black hair and light brown skin",
+        "middle-aged East Asian man with short, salt-and-pepper hair and fair skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "practicing yoga on colorful mats",
+        "decorating a cake on a kitchen island",
+        "folding laundry on a clean sofa",
+        "playing video games on a shared monitor",
+        "discussing plans around a small coffee table",
+        "wrapping gifts with ribbons and paper",
+        "building a model airplane on a workbench",
+        "arranging flowers in glass vases",
+        "learning dance moves in a mirrored studio",
+        "sipping tea near a large window"
+    ],
+    "style": "A close-up photo of"
+}

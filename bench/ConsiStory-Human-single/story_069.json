@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, wearing a traditional robe in a quiet courtyard",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, sitting on a bench reading a newspaper",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, wearing a knitted sweater in a cozy living room",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, standing by a desert landscape at sunset",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, holding a cup of tea in a bustling marketplace",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, sitting on a porch watching children play",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, wearing a casual jacket in an urban park",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, reading a book in a sunlit garden",
+        "A close-up photo of an elderly Middle Eastern man with short, white hair and olive skin, tending to plants in a backyard garden"
+    ],
+    "token": "man",
+    "character": "elderly Middle Eastern man with short, white hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional robe in a quiet courtyard",
+        "sitting on a bench reading a newspaper",
+        "wearing a knitted sweater in a cozy living room",
+        "standing by a desert landscape at sunset",
+        "holding a cup of tea in a bustling marketplace",
+        "wearing glasses in a quiet library",
+        "sitting on a porch watching children play",
+        "wearing a casual jacket in an urban park",
+        "reading a book in a sunlit garden",
+        "tending to plants in a backyard garden"
+    ],
+    "style": "A close-up photo of"
+}

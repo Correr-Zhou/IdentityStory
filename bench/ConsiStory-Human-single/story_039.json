@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, wearing a traditional dress in a serene garden",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, sitting at a wooden table drinking tea",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, wearing glasses in a cozy living room",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, standing by a calm lake during sunset",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, holding a bouquet of flowers in a sunlit park",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, wearing a sweater in a bustling marketplace",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, sitting on a park bench reading a book",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, wearing a casual blouse in a flower garden",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, reading a letter in a quiet bedroom",
+        "A close-up photo of an elderly East Asian woman with short, silver hair and fair skin, arranging books on a shelf in a cozy home office"
+    ],
+    "token": "woman",
+    "character": "elderly East Asian woman with short, silver hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a serene garden",
+        "sitting at a wooden table drinking tea",
+        "wearing glasses in a cozy living room",
+        "standing by a calm lake during sunset",
+        "holding a bouquet of flowers in a sunlit park",
+        "wearing a sweater in a bustling marketplace",
+        "sitting on a park bench reading a book",
+        "wearing a casual blouse in a flower garden",
+        "reading a letter in a quiet bedroom",
+        "arranging books on a shelf in a cozy home office"
+    ],
+    "style": "A close-up photo of"
+}

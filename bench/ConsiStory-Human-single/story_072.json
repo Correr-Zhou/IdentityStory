@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, wearing a sari in a vibrant marketplace",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, sitting at a café table with a cup of chai",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, wearing a casual dress in a sunny garden",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, standing by the ocean at sunset",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, holding a camera in a historic town square",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, wearing a cozy sweater in a quiet library",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, sitting on a porch reading a book",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, wearing a sunhat in a flower garden",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, reading a letter in a cozy study",
+        "A close-up photo of a middle-aged South Asian woman with long, straight black hair and warm brown skin, doing yoga in a sunlit room"
+    ],
+    "token": "woman",
+    "character": "middle-aged South Asian woman with long, straight black hair and warm brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a sari in a vibrant marketplace",
+        "sitting at a café table with a cup of chai",
+        "wearing a casual dress in a sunny garden",
+        "standing by the ocean at sunset",
+        "holding a camera in a historic town square",
+        "wearing a cozy sweater in a quiet library",
+        "sitting on a porch reading a book",
+        "wearing a sunhat in a flower garden",
+        "reading a letter in a cozy study",
+        "doing yoga in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

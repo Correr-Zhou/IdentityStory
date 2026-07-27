@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, painting murals on a colorful wall",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, playing musical instruments in soft lighting",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, discussing ideas over an open sketchbook",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, writing together on a large whiteboard",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, sharing coffee near a bright window",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, drawing patterns under a warm desk lamp",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, laughing softly in a cozy library corner",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, typing notes on glowing computer screens",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, reading documents by a tall bookshelf",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged Hispanic man with short, straight black hair and light brown skin, collaborating with maps spread on a table"
+    ],
+    "token": [
+        "girl",
+        "man"
+    ],
+    "character": [
+        "young Latina girl with short, curly black hair and light brown skin",
+        "middle-aged Hispanic man with short, straight black hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "painting murals on a colorful wall",
+        "playing musical instruments in soft lighting",
+        "discussing ideas over an open sketchbook",
+        "writing together on a large whiteboard",
+        "sharing coffee near a bright window",
+        "drawing patterns under a warm desk lamp",
+        "laughing softly in a cozy library corner",
+        "typing notes on glowing computer screens",
+        "reading documents by a tall bookshelf",
+        "collaborating with maps spread on a table"
+    ],
+    "style": "A close-up photo of"
+}

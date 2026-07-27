@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, wearing a sweater in a cozy living room",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, sitting on a porch with a cup of tea",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, wearing a casual jacket in a bustling city street",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, standing by a serene lake at dusk",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, holding a newspaper in a sunny park",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, sitting on a bench feeding birds",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, wearing a traditional hat in a vibrant market",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, reading a letter in a comfortable study",
+        "A close-up photo of an elderly Black man with short, curly gray hair and smooth dark skin, arranging flowers in a bright kitchen"
+    ],
+    "token": "man",
+    "character": "elderly Black man with short, curly gray hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a sweater in a cozy living room",
+        "sitting on a porch with a cup of tea",
+        "wearing a casual jacket in a bustling city street",
+        "standing by a serene lake at dusk",
+        "holding a newspaper in a sunny park",
+        "wearing glasses in a quiet library",
+        "sitting on a bench feeding birds",
+        "wearing a traditional hat in a vibrant market",
+        "reading a letter in a comfortable study",
+        "arranging flowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, wearing a traditional shawl in a serene garden",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, sitting on a porch knitting a blanket",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, wearing glasses in a cozy living room",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, standing by a peaceful river at sunrise",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, holding a basket of fresh herbs in her kitchen",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, wearing a sweater in a bustling marketplace",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, sitting on a park bench feeding birds",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, wearing a hijab in a colorful garden",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, reading a letter in a quiet study room",
+        "A close-up photo of an elderly Middle Eastern woman with short, curly white hair and olive skin, tending to potted plants on her balcony"
+    ],
+    "token": "woman",
+    "character": "elderly Middle Eastern woman with short, curly white hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional shawl in a serene garden",
+        "sitting on a porch knitting a blanket",
+        "wearing glasses in a cozy living room",
+        "standing by a peaceful river at sunrise",
+        "holding a basket of fresh herbs in her kitchen",
+        "wearing a sweater in a bustling marketplace",
+        "sitting on a park bench feeding birds",
+        "wearing a hijab in a colorful garden",
+        "reading a letter in a quiet study room",
+        "tending to potted plants on her balcony"
+    ],
+    "style": "A close-up photo of"
+}

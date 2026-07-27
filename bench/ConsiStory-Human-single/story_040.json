@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, wearing a traditional robe in a quiet mosque",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, sitting at a café table reading a newspaper",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, wearing a casual jacket in a lively market",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, standing by a desert oasis at dusk",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, holding a cup of tea in a cozy living room",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, wearing a business suit in a modern office",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, sitting on a park bench enjoying the sunshine",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, wearing a hoodie in an urban neighborhood",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, reading a book in a public library",
+        "A close-up photo of a middle-aged Middle Eastern man with short, black hair and olive skin, fixing a bicycle in a sunlit backyard"
+    ],
+    "token": "man",
+    "character": "middle-aged Middle Eastern man with short, black hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional robe in a quiet mosque",
+        "sitting at a café table reading a newspaper",
+        "wearing a casual jacket in a lively market",
+        "standing by a desert oasis at dusk",
+        "holding a cup of tea in a cozy living room",
+        "wearing a business suit in a modern office",
+        "sitting on a park bench enjoying the sunshine",
+        "wearing a hoodie in an urban neighborhood",
+        "reading a book in a public library",
+        "fixing a bicycle in a sunlit backyard"
+    ],
+    "style": "A close-up photo of"
+}

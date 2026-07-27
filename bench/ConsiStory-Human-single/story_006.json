@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, wearing a leather jacket in a bustling café",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, sitting at a desk working on a laptop in a modern office",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, wearing glasses in a busy library",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, standing near a fountain in a lively town square",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, holding a cup of coffee in a trendy coffee shop",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, wearing a casual t-shirt in a cozy living room",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, sitting on a park bench reading a newspaper",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, wearing a hoodie in a sunny urban park",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, reading a book in a quiet library corner",
+        "A close-up photo of a young Middle Eastern man with short, black hair and olive skin, checking his phone in a bustling city street"
+    ],
+    "token": "man",
+    "character": "young Middle Eastern man with short, black hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a leather jacket in a bustling café",
+        "sitting at a desk working on a laptop in a modern office",
+        "wearing glasses in a busy library",
+        "standing near a fountain in a lively town square",
+        "holding a cup of coffee in a trendy coffee shop",
+        "wearing a casual t-shirt in a cozy living room",
+        "sitting on a park bench reading a newspaper",
+        "wearing a hoodie in a sunny urban park",
+        "reading a book in a quiet library corner",
+        "checking his phone in a bustling city street"
+    ],
+    "style": "A close-up photo of"
+}

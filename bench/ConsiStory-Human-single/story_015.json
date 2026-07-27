@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, wearing a suit in a corporate office",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, sitting at a café with a cup of coffee",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, wearing a casual t-shirt in a busy market",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, standing by a lake at sunset",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, holding a newspaper in a city park",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, wearing a sweater in a cozy living room",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, sitting on a bench with a sketchpad",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, wearing a hoodie in an urban garden",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, reading a book in a library",
+        "A close-up photo of a middle-aged Black man with short, curly hair and brown eyes, arranging flowers in a sunlit room"
+    ],
+    "token": "man",
+    "character": "middle-aged Black man with short, curly hair and brown eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a suit in a corporate office",
+        "sitting at a café with a cup of coffee",
+        "wearing a casual t-shirt in a busy market",
+        "standing by a lake at sunset",
+        "holding a newspaper in a city park",
+        "wearing a sweater in a cozy living room",
+        "sitting on a bench with a sketchpad",
+        "wearing a hoodie in an urban garden",
+        "reading a book in a library",
+        "arranging flowers in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

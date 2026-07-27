@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, reading books in a cozy room",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, clinking glasses in celebration",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, writing notes on a whiteboard",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, playing a board game together",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, fixing a gadget on a table",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, working on an art project",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, singing into microphones",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, decorating a wall with posters",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, learning sign language gestures",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young African girl with short, curly black hair and smooth dark skin, young East Asian boy with short, straight black hair and fair skin, assembling a puzzle on a desk"
+    ],
+    "token": [
+        "woman",
+        "girl",
+        "boy"
+    ],
+    "character": [
+        "elderly Hispanic woman with short, curly white hair and light brown skin",
+        "young African girl with short, curly black hair and smooth dark skin",
+        "young East Asian boy with short, straight black hair and fair skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "reading books in a cozy room",
+        "clinking glasses in celebration",
+        "writing notes on a whiteboard",
+        "playing a board game together",
+        "fixing a gadget on a table",
+        "working on an art project",
+        "singing into microphones",
+        "decorating a wall with posters",
+        "learning sign language gestures",
+        "assembling a puzzle on a desk"
+    ],
+    "style": "A close-up photo of"
+}

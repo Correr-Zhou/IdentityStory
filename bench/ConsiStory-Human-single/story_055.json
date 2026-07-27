@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, wearing a sweater in a cozy living room",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, sitting at a café table with a cup of coffee",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, wearing glasses in a quiet library",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, standing by a lake during sunrise",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, holding a camera in a bustling market",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, wearing a casual jacket in a sunlit park",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, sitting on a bench reading a newspaper",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, wearing a t-shirt in a blooming garden",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, reading a book in a peaceful study",
+        "A close-up photo of a middle-aged East Asian man with short, straight black hair and light skin, tending to flowers in a backyard"
+    ],
+    "token": "man",
+    "character": "middle-aged East Asian man with short, straight black hair and light skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a sweater in a cozy living room",
+        "sitting at a café table with a cup of coffee",
+        "wearing glasses in a quiet library",
+        "standing by a lake during sunrise",
+        "holding a camera in a bustling market",
+        "wearing a casual jacket in a sunlit park",
+        "sitting on a bench reading a newspaper",
+        "wearing a t-shirt in a blooming garden",
+        "reading a book in a peaceful study",
+        "tending to flowers in a backyard"
+    ],
+    "style": "A close-up photo of"
+}

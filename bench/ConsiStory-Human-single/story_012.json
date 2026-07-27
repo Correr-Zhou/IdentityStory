@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, wearing a casual t-shirt in a bustling neighborhood",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, sitting at a picnic table drawing in a city park",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, wearing a hoodie on a school playground",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, standing at the edge of a peaceful river",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, holding a toy car in a backyard",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, wearing a flannel shirt in a cozy living room",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, sitting on a park bench with a sketchpad",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, wearing a baseball cap in a vibrant garden",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, reading a comic book in a cozy bedroom",
+        "A close-up photo of a young Native American boy with short, straight dark brown hair and light brown skin, playing with a dog in a sunny yard"
+    ],
+    "token": "boy",
+    "character": "young Native American boy with short, straight dark brown hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a casual t-shirt in a bustling neighborhood",
+        "sitting at a picnic table drawing in a city park",
+        "wearing a hoodie on a school playground",
+        "standing at the edge of a peaceful river",
+        "holding a toy car in a backyard",
+        "wearing a flannel shirt in a cozy living room",
+        "sitting on a park bench with a sketchpad",
+        "wearing a baseball cap in a vibrant garden",
+        "reading a comic book in a cozy bedroom",
+        "playing with a dog in a sunny yard"
+    ],
+    "style": "A close-up photo of"
+}

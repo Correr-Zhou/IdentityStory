@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, brainstorming ideas in a conference room",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, typing on laptops in an open office space",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, having a coffee break in the lounge",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, presenting a slideshow in a meeting",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, making phone calls at a desk",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, collaborating on a whiteboard sketch",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, reviewing documents in a glass-walled office",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, waiting for an elevator in the lobby",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, organizing files in a storage room",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young Middle Eastern girl with long, wavy black hair and olive skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, greeting clients in a reception area"
+    ],
+    "token": [
+        "woman",
+        "girl",
+        "man"
+    ],
+    "character": [
+        "elderly Hispanic woman with short, curly white hair and light brown skin",
+        "young Middle Eastern girl with long, wavy black hair and olive skin",
+        "middle-aged East Asian man with short, salt-and-pepper hair and fair skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "brainstorming ideas in a conference room",
+        "typing on laptops in an open office space",
+        "having a coffee break in the lounge",
+        "presenting a slideshow in a meeting",
+        "making phone calls at a desk",
+        "collaborating on a whiteboard sketch",
+        "reviewing documents in a glass-walled office",
+        "waiting for an elevator in the lobby",
+        "organizing files in a storage room",
+        "greeting clients in a reception area"
+    ],
+    "style": "A close-up photo of"
+}

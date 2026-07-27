@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, wearing a casual jacket in a bustling city street",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, sitting at a café table with a cup of coffee",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, wearing a hoodie in a quiet park",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, standing by a scenic riverside during sunset",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, holding a smartphone in a busy market",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, wearing glasses in a cozy living room",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, sitting on a park bench reading a book",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, wearing a sunhat in a botanical garden",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, reading a magazine in a trendy café",
+        "A close-up photo of a young East Asian man with short, straight black hair and fair skin, sketching in a notebook in an outdoor plaza"
+    ],
+    "token": "man",
+    "character": "young East Asian man with short, straight black hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a casual jacket in a bustling city street",
+        "sitting at a café table with a cup of coffee",
+        "wearing a hoodie in a quiet park",
+        "standing by a scenic riverside during sunset",
+        "holding a smartphone in a busy market",
+        "wearing glasses in a cozy living room",
+        "sitting on a park bench reading a book",
+        "wearing a sunhat in a botanical garden",
+        "reading a magazine in a trendy café",
+        "sketching in a notebook in an outdoor plaza"
+    ],
+    "style": "A close-up photo of"
+}

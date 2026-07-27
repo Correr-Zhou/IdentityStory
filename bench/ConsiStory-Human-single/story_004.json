@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, wearing a baseball cap in a sunny playground",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, sitting at a kitchen table doing homework",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, wearing a hoodie in a bustling city park",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, standing by the edge of a swimming pool at dusk",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, holding an ice cream cone in a lively fairground",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, wearing a school uniform in a colorful classroom",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, sitting on a bus with a backpack on his lap",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, wearing a superhero costume in a family backyard",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, reading a comic book in a cozy reading nook",
+        "A close-up photo of a young Black boy with short, curly hair and bright eyes, helping water plants in a community garden"
+    ],
+    "token": "boy",
+    "character": "young Black boy with short, curly hair and bright eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a baseball cap in a sunny playground",
+        "sitting at a kitchen table doing homework",
+        "wearing a hoodie in a bustling city park",
+        "standing by the edge of a swimming pool at dusk",
+        "holding an ice cream cone in a lively fairground",
+        "wearing a school uniform in a colorful classroom",
+        "sitting on a bus with a backpack on his lap",
+        "wearing a superhero costume in a family backyard",
+        "reading a comic book in a cozy reading nook",
+        "helping water plants in a community garden"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, wearing a school uniform in a brightly lit classroom",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, sitting on a park bench drawing in a sketchbook",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, wearing a birthday hat at a family party",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, standing by a lake during a sunny afternoon",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, holding a soccer ball in a community field",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, wearing a casual dress in a backyard garden",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, sitting at a kitchen table eating breakfast",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, wearing a raincoat in a rainy street",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, reading a fairy tale book in her bedroom",
+        "A close-up photo of a young Latina girl with long, wavy dark brown hair and warm brown skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young Latina girl with long, wavy dark brown hair and warm brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a brightly lit classroom",
+        "sitting on a park bench drawing in a sketchbook",
+        "wearing a birthday hat at a family party",
+        "standing by a lake during a sunny afternoon",
+        "holding a soccer ball in a community field",
+        "wearing a casual dress in a backyard garden",
+        "sitting at a kitchen table eating breakfast",
+        "wearing a raincoat in a rainy street",
+        "reading a fairy tale book in her bedroom",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

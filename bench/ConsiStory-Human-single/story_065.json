@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, wearing a knitted sweater in a cozy living room",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, sitting on a porch with a cup of tea",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, wearing a sunhat in a vibrant garden",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, standing by a serene lake at sunrise",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, holding a book in a sunny park",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, wearing a patterned dress in a busy marketplace",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, sitting on a park bench watching the birds",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, reading a letter in a peaceful study",
+        "A close-up photo of an elderly African American woman with short, curly gray hair and dark brown skin, arranging fresh flowers in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "elderly African American woman with short, curly gray hair and dark brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a knitted sweater in a cozy living room",
+        "sitting on a porch with a cup of tea",
+        "wearing a sunhat in a vibrant garden",
+        "standing by a serene lake at sunrise",
+        "holding a book in a sunny park",
+        "wearing a patterned dress in a busy marketplace",
+        "sitting on a park bench watching the birds",
+        "wearing glasses in a quiet library",
+        "reading a letter in a peaceful study",
+        "arranging fresh flowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

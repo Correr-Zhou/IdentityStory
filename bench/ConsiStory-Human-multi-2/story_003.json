@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, painting together in an art studio",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing chess at a wooden table",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, discussing ideas on a whiteboard",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, cooking together in a small kitchen",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, dancing in a brightly lit room",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, sitting by a large window with tea",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, reading books in a cozy library",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, working on laptops in a coffee shop",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, posing for a photo in front of plants",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, elderly Hispanic woman with short, curly white hair and light brown skin, playing music with guitars and drums"
+    ],
+    "token": [
+        "boy",
+        "woman"
+    ],
+    "character": [
+        "young East Asian boy with short, straight black hair and fair skin",
+        "elderly Hispanic woman with short, curly white hair and light brown skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "painting together in an art studio",
+        "playing chess at a wooden table",
+        "discussing ideas on a whiteboard",
+        "cooking together in a small kitchen",
+        "dancing in a brightly lit room",
+        "sitting by a large window with tea",
+        "reading books in a cozy library",
+        "working on laptops in a coffee shop",
+        "posing for a photo in front of plants",
+        "playing music with guitars and drums"
+    ],
+    "style": "A close-up photo of"
+}

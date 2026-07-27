@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly white man with short, white hair and light skin, wearing a flannel shirt in a cozy cabin",
+        "A close-up photo of an elderly white man with short, white hair and light skin, sitting at a wooden table reading a newspaper",
+        "A close-up photo of an elderly white man with short, white hair and light skin, wearing a sweater in a bustling marketplace",
+        "A close-up photo of an elderly white man with short, white hair and light skin, standing by a lakeside during a foggy morning",
+        "A close-up photo of an elderly white man with short, white hair and light skin, holding a cup of coffee in a sunny garden",
+        "A close-up photo of an elderly white man with short, white hair and light skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly white man with short, white hair and light skin, sitting on a park bench feeding ducks",
+        "A close-up photo of an elderly white man with short, white hair and light skin, wearing a casual jacket in a neighborhood street",
+        "A close-up photo of an elderly white man with short, white hair and light skin, reading a novel by a fireplace",
+        "A close-up photo of an elderly white man with short, white hair and light skin, tending to plants in a backyard"
+    ],
+    "token": "man",
+    "character": "elderly white man with short, white hair and light skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a flannel shirt in a cozy cabin",
+        "sitting at a wooden table reading a newspaper",
+        "wearing a sweater in a bustling marketplace",
+        "standing by a lakeside during a foggy morning",
+        "holding a cup of coffee in a sunny garden",
+        "wearing glasses in a quiet library",
+        "sitting on a park bench feeding ducks",
+        "wearing a casual jacket in a neighborhood street",
+        "reading a novel by a fireplace",
+        "tending to plants in a backyard"
+    ],
+    "style": "A close-up photo of"
+}

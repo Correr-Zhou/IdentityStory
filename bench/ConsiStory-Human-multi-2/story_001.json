@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, playing board games on a small table",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, sketching designs on a shared notebook",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, laughing together near a glowing fireplace",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, writing equations on a blackboard wall",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, mixing drinks on a marble countertop",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, planning routes over a large map",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, painting ceramics under soft yellow lighting",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, reading letters near an open window",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, assembling gadgets on a cluttered desk",
+        "A close-up photo of elderly Hispanic woman with short, curly white hair and light brown skin, young South Asian girl with long, wavy black hair and tan skin, folding clothes on a narrow workspace"
+    ],
+    "token": [
+        "woman",
+        "girl"
+    ],
+    "character": [
+        "elderly Hispanic woman with short, curly white hair and light brown skin",
+        "young South Asian girl with long, wavy black hair and tan skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing board games on a small table",
+        "sketching designs on a shared notebook",
+        "laughing together near a glowing fireplace",
+        "writing equations on a blackboard wall",
+        "mixing drinks on a marble countertop",
+        "planning routes over a large map",
+        "painting ceramics under soft yellow lighting",
+        "reading letters near an open window",
+        "assembling gadgets on a cluttered desk",
+        "folding clothes on a narrow workspace"
+    ],
+    "style": "A close-up photo of"
+}

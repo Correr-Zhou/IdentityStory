@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, wearing a colorful dress in a vibrant market",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, sitting at a wooden table drawing in a sketchpad",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, wearing a sunhat in a flower garden",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, standing by a riverside during sunset",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, holding a toy in a lively park",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, wearing a casual t-shirt in a neighborhood street",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, sitting on a porch reading a book",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, wearing a hoodie in a bustling playground",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, reading a storybook in a cozy bedroom",
+        "A close-up photo of a young African girl with short, curly black hair and smooth dark skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young African girl with short, curly black hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a colorful dress in a vibrant market",
+        "sitting at a wooden table drawing in a sketchpad",
+        "wearing a sunhat in a flower garden",
+        "standing by a riverside during sunset",
+        "holding a toy in a lively park",
+        "wearing a casual t-shirt in a neighborhood street",
+        "sitting on a porch reading a book",
+        "wearing a hoodie in a bustling playground",
+        "reading a storybook in a cozy bedroom",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

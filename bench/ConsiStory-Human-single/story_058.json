@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, wearing a floral dress in a sunny garden",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, sitting at a kitchen table with a cup of coffee",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, wearing a casual shirt in a bustling market",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, standing by a river during sunset",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, holding a book in a cozy living room",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, wearing a sunhat in a botanical garden",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, sitting on a porch embroidering",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, wearing glasses in a quiet library",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, reading a letter in her study",
+        "A close-up photo of a middle-aged Hispanic woman with long, wavy brown hair and light brown skin, planting flowers in a backyard"
+    ],
+    "token": "woman",
+    "character": "middle-aged Hispanic woman with long, wavy brown hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a floral dress in a sunny garden",
+        "sitting at a kitchen table with a cup of coffee",
+        "wearing a casual shirt in a bustling market",
+        "standing by a river during sunset",
+        "holding a book in a cozy living room",
+        "wearing a sunhat in a botanical garden",
+        "sitting on a porch embroidering",
+        "wearing glasses in a quiet library",
+        "reading a letter in her study",
+        "planting flowers in a backyard"
+    ],
+    "style": "A close-up photo of"
+}

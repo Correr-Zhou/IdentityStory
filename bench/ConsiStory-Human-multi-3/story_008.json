@@ -1,0 +1,49 @@
+{
+    "prompts": [
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, writing equations on a chalkboard",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, reading textbooks in a library",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, discussing a project in a classroom",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, painting posters for a school event",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, taking notes during a lecture",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, presenting a project to classmates",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, working on a science experiment",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, drawing diagrams on a whiteboard",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, studying together at a desk",
+        "A close-up photo of young Middle Eastern boy with short, curly black hair and light brown skin, middle-aged white woman with short, straight blonde hair and fair skin, young Middle Eastern man with short, black hair and olive skin, helping each other with homework"
+    ],
+    "token": [
+        "boy",
+        "woman",
+        "man"
+    ],
+    "character": [
+        "young Middle Eastern boy with short, curly black hair and light brown skin",
+        "middle-aged white woman with short, straight blonde hair and fair skin",
+        "young Middle Eastern man with short, black hair and olive skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "writing equations on a chalkboard",
+        "reading textbooks in a library",
+        "discussing a project in a classroom",
+        "painting posters for a school event",
+        "taking notes during a lecture",
+        "presenting a project to classmates",
+        "working on a science experiment",
+        "drawing diagrams on a whiteboard",
+        "studying together at a desk",
+        "helping each other with homework"
+    ],
+    "style": "A close-up photo of"
+}

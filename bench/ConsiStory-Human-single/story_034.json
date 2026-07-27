@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, wearing a hat in a sunlit garden",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, sitting on a porch in a rocking chair",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, wearing glasses in a cozy living room",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, standing by a lakeside during sunset",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, holding a newspaper in a city park",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, wearing a sweater in a bustling marketplace",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, sitting on a bench in a neighborhood park",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, wearing a casual t-shirt in a garden",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, reading a book in a sunny room",
+        "A close-up photo of an elderly Hispanic man with short, gray hair and light brown skin, preparing a meal in a bright kitchen"
+    ],
+    "token": "man",
+    "character": "elderly Hispanic man with short, gray hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a hat in a sunlit garden",
+        "sitting on a porch in a rocking chair",
+        "wearing glasses in a cozy living room",
+        "standing by a lakeside during sunset",
+        "holding a newspaper in a city park",
+        "wearing a sweater in a bustling marketplace",
+        "sitting on a bench in a neighborhood park",
+        "wearing a casual t-shirt in a garden",
+        "reading a book in a sunny room",
+        "preparing a meal in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, wearing a traditional tea dress in a tranquil tea garden",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, seated by a window knitting in a cozy living room",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, wearing a comfortable cardigan in a bustling marketplace",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, standing on a wooden bridge over a serene pond",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, holding a basket of fruits in an orchard",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, wearing glasses in a peaceful library",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, seated on a park bench with a small dog",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, wearing a floral blouse in a sunny backyard garden",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, reading a letter in a quiet study room",
+        "A close-up photo of an elderly East Asian woman with short, gray hair and light wrinkles, watering flowers in a beautiful indoor greenhouse"
+    ],
+    "token": "woman",
+    "character": "elderly East Asian woman with short, gray hair and light wrinkles",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional tea dress in a tranquil tea garden",
+        "seated by a window knitting in a cozy living room",
+        "wearing a comfortable cardigan in a bustling marketplace",
+        "standing on a wooden bridge over a serene pond",
+        "holding a basket of fruits in an orchard",
+        "wearing glasses in a peaceful library",
+        "seated on a park bench with a small dog",
+        "wearing a floral blouse in a sunny backyard garden",
+        "reading a letter in a quiet study room",
+        "watering flowers in a beautiful indoor greenhouse"
+    ],
+    "style": "A close-up photo of"
+}

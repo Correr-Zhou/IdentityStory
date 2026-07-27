@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, wearing a chic hat in a bustling café",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, sitting at a desk typing on a laptop in a modern office",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, wearing a cozy sweater in a warm living room",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, standing by a window with cityscape view",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, flipping through a book in a quiet library",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, wearing sportswear in a vibrant park",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, standing near a kitchen counter with sunlight streaming in",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, wearing a smart casual outfit in a busy coworking space",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, relaxing on a couch with a cat in her lap",
+        "A close-up photo of a young Asian woman with long, straight black hair and smooth skin, watering plants in a sunlit balcony"
+    ],
+    "token": "woman",
+    "character": "young Asian woman with long, straight black hair and smooth skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "background",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a chic hat in a bustling café",
+        "sitting at a desk typing on a laptop in a modern office",
+        "wearing a cozy sweater in a warm living room",
+        "standing by a window with cityscape view",
+        "flipping through a book in a quiet library",
+        "wearing sportswear in a vibrant park",
+        "standing near a kitchen counter with sunlight streaming in",
+        "wearing a smart casual outfit in a busy coworking space",
+        "relaxing on a couch with a cat in her lap",
+        "watering plants in a sunlit balcony"
+    ],
+    "style": "A close-up photo of"
+}

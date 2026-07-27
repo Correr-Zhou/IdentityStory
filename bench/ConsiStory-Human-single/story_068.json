@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a stylish suit in a modern office",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, sitting at a café table with a laptop",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a sunhat in a flourishing garden",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, standing by a mountain lake at sunrise",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, holding a bunch of balloons in a lively city square",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing a hoodie in a bustling park",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, sitting on a park bench reading a novel",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, wearing glasses in a quiet public library",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, reading a map in a cozy living room",
+        "A close-up photo of a young Black man with short, curly hair and smooth dark skin, painting on a canvas in a sunlit studio"
+    ],
+    "token": "man",
+    "character": "young Black man with short, curly hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a stylish suit in a modern office",
+        "sitting at a café table with a laptop",
+        "wearing a sunhat in a flourishing garden",
+        "standing by a mountain lake at sunrise",
+        "holding a bunch of balloons in a lively city square",
+        "wearing a hoodie in a bustling park",
+        "sitting on a park bench reading a novel",
+        "wearing glasses in a quiet public library",
+        "reading a map in a cozy living room",
+        "painting on a canvas in a sunlit studio"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, playing cards on a wooden desk",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, teaching with hand gestures on a chalkboard",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, folding paper for an art project",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, mixing colors on a shared palette",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, celebrating with raised glasses under string lights",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, brainstorming on sticky notes by a window",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, watching a small screen together in a dim room",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, pointing at a globe on a cluttered desk",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, solving puzzles on a bright coffee table",
+        "A close-up photo of young Middle Eastern man with short, black hair and olive skin, young Middle Eastern girl with long, wavy black hair and olive skin, preparing food on a narrow kitchen counter"
+    ],
+    "token": [
+        "man",
+        "girl"
+    ],
+    "character": [
+        "young Middle Eastern man with short, black hair and olive skin",
+        "young Middle Eastern girl with long, wavy black hair and olive skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing cards on a wooden desk",
+        "teaching with hand gestures on a chalkboard",
+        "folding paper for an art project",
+        "mixing colors on a shared palette",
+        "celebrating with raised glasses under string lights",
+        "brainstorming on sticky notes by a window",
+        "watching a small screen together in a dim room",
+        "pointing at a globe on a cluttered desk",
+        "solving puzzles on a bright coffee table",
+        "preparing food on a narrow kitchen counter"
+    ],
+    "style": "A close-up photo of"
+}

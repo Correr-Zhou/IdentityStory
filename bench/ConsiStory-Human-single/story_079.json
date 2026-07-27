@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, wearing a suit in a modern office",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, sitting on a park bench reading a newspaper",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, wearing a casual shirt in a bustling marketplace",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, standing by a picturesque lake at sunset",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, holding a camera in a scenic mountain trail",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, wearing glasses in a quiet library",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, sitting in a cozy living room writing in a journal",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, wearing a sunhat in a vibrant garden",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, reading a book in a bright study",
+        "A close-up photo of a middle-aged East Asian man with short, salt-and-pepper hair and fair skin, tending to bonsai trees in a sunlit room"
+    ],
+    "token": "man",
+    "character": "middle-aged East Asian man with short, salt-and-pepper hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a suit in a modern office",
+        "sitting on a park bench reading a newspaper",
+        "wearing a casual shirt in a bustling marketplace",
+        "standing by a picturesque lake at sunset",
+        "holding a camera in a scenic mountain trail",
+        "wearing glasses in a quiet library",
+        "sitting in a cozy living room writing in a journal",
+        "wearing a sunhat in a vibrant garden",
+        "reading a book in a bright study",
+        "tending to bonsai trees in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

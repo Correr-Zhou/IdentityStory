@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, wearing a knitted sweater in a cozy living room",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, sitting on a porch chair with a cat in her lap",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, wearing a sunhat in a vibrant garden",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, standing by a lakeside during sunrise",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, holding a paintbrush in an art studio",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, wearing a scarf in a sunny park",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, sitting on a park bench knitting a scarf",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, wearing a floral dress in a home kitchen",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, reading a novel in a cozy library",
+        "A close-up photo of an elderly white woman with short, silver hair and deep-set blue eyes, arranging flowers in a glass vase"
+    ],
+    "token": "woman",
+    "character": "elderly white woman with short, silver hair and deep-set blue eyes",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a knitted sweater in a cozy living room",
+        "sitting on a porch chair with a cat in her lap",
+        "wearing a sunhat in a vibrant garden",
+        "standing by a lakeside during sunrise",
+        "holding a paintbrush in an art studio",
+        "wearing a scarf in a sunny park",
+        "sitting on a park bench knitting a scarf",
+        "wearing a floral dress in a home kitchen",
+        "reading a novel in a cozy library",
+        "arranging flowers in a glass vase"
+    ],
+    "style": "A close-up photo of"
+}

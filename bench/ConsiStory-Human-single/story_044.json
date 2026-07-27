@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, wearing a school uniform in a brightly lit classroom",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, sitting at a kitchen table doing homework",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, wearing a sunhat in a bustling playground",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, standing by a river during sunset",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, holding a toy in a backyard",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, wearing a casual dress in a flower garden",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, sitting on a porch reading a book",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, wearing a hoodie in a park",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, reading a comic book in a cozy bedroom",
+        "A close-up photo of a young Latina girl with short, curly brown hair and olive skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young Latina girl with short, curly brown hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a school uniform in a brightly lit classroom",
+        "sitting at a kitchen table doing homework",
+        "wearing a sunhat in a bustling playground",
+        "standing by a river during sunset",
+        "holding a toy in a backyard",
+        "wearing a casual dress in a flower garden",
+        "sitting on a porch reading a book",
+        "wearing a hoodie in a park",
+        "reading a comic book in a cozy bedroom",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

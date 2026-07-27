@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a shawl in a cozy kitchen",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, sitting on a porch knitting a sweater",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a floral dress in a bustling town square",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, standing by a serene lake at sunrise",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, holding a basket of freshly picked vegetables in a garden",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a cardigan in a sunny living room",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, sitting on a park bench feeding birds",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, wearing a traditional dress in a colorful market",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, reading a letter in a quiet bedroom",
+        "A close-up photo of an elderly Latina woman with short, curly gray hair and warm brown skin, watering plants in a home garden"
+    ],
+    "token": "woman",
+    "character": "elderly Latina woman with short, curly gray hair and warm brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a shawl in a cozy kitchen",
+        "sitting on a porch knitting a sweater",
+        "wearing a floral dress in a bustling town square",
+        "standing by a serene lake at sunrise",
+        "holding a basket of freshly picked vegetables in a garden",
+        "wearing a cardigan in a sunny living room",
+        "sitting on a park bench feeding birds",
+        "wearing a traditional dress in a colorful market",
+        "reading a letter in a quiet bedroom",
+        "watering plants in a home garden"
+    ],
+    "style": "A close-up photo of"
+}

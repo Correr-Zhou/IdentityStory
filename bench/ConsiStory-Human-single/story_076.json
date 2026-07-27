@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, wearing a traditional dress in a serene meadow",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, sitting on a porch weaving a blanket",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, wearing a cozy shawl in a warm living room",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, standing by a river at dusk",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, holding a basket of fresh herbs in her garden",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, sitting on a park bench enjoying the sunshine",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, wearing a sunhat in a flower garden",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, reading a letter in a comfortable study",
+        "A close-up photo of an elderly Native American woman with long, braided gray hair and tan skin, arranging wildflowers in a bright kitchen"
+    ],
+    "token": "woman",
+    "character": "elderly Native American woman with long, braided gray hair and tan skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a serene meadow",
+        "sitting on a porch weaving a blanket",
+        "wearing a cozy shawl in a warm living room",
+        "standing by a river at dusk",
+        "holding a basket of fresh herbs in her garden",
+        "wearing glasses in a quiet library",
+        "sitting on a park bench enjoying the sunshine",
+        "wearing a sunhat in a flower garden",
+        "reading a letter in a comfortable study",
+        "arranging wildflowers in a bright kitchen"
+    ],
+    "style": "A close-up photo of"
+}

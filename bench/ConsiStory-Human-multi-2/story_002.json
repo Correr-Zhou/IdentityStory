@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, assembling puzzles on a small table",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, sewing fabric pieces with a needle and thread",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, playing with clay on a messy surface",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, tuning a guitar under soft lighting",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, carving wood with small tools",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, discussing recipes with open cookbooks",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, braiding colorful threads on a crafting desk",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, sorting photos in an old scrapbook",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, decorating cards with glue and glitter",
+        "A close-up photo of young East Asian boy with short, straight black hair and fair skin, young Middle Eastern girl with long, wavy black hair and olive skin, pouring coffee into ceramic mugs"
+    ],
+    "token": [
+        "boy",
+        "girl"
+    ],
+    "character": [
+        "young East Asian boy with short, straight black hair and fair skin",
+        "young Middle Eastern girl with long, wavy black hair and olive skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "assembling puzzles on a small table",
+        "sewing fabric pieces with a needle and thread",
+        "playing with clay on a messy surface",
+        "tuning a guitar under soft lighting",
+        "carving wood with small tools",
+        "discussing recipes with open cookbooks",
+        "braiding colorful threads on a crafting desk",
+        "sorting photos in an old scrapbook",
+        "decorating cards with glue and glitter",
+        "pouring coffee into ceramic mugs"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, wearing a hoodie in a lively schoolyard",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, sitting at a desk doing homework in a quiet study room",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, wearing a t-shirt in a bustling marketplace",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, standing by the beach during sunset",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, holding a soccer ball in a park",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, wearing a school uniform in a classroom",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, sitting at a kitchen table drawing",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, wearing a jacket in an urban park",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, reading a comic book in his cozy bedroom",
+        "A close-up photo of a young Middle Eastern boy with short, curly black hair and light brown skin, helping wash vegetables in a sunny kitchen"
+    ],
+    "token": "boy",
+    "character": "young Middle Eastern boy with short, curly black hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a hoodie in a lively schoolyard",
+        "sitting at a desk doing homework in a quiet study room",
+        "wearing a t-shirt in a bustling marketplace",
+        "standing by the beach during sunset",
+        "holding a soccer ball in a park",
+        "wearing a school uniform in a classroom",
+        "sitting at a kitchen table drawing",
+        "wearing a jacket in an urban park",
+        "reading a comic book in his cozy bedroom",
+        "helping wash vegetables in a sunny kitchen"
+    ],
+    "style": "A close-up photo of"
+}

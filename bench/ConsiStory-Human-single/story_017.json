@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, wearing a traditional robe in a serene temple garden",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, sitting at a wooden table in a peaceful tea house",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, wearing a casual jacket in a bustling city street",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, standing by a riverside during autumn",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, holding a fishing rod by a tranquil lake",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, wearing glasses in a cozy library",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, sitting on a park bench feeding birds",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, wearing a traditional hat in a vibrant marketplace",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, reading a newspaper in a sunny living room",
+        "A close-up photo of an elderly East Asian man with short, white hair and a light brown skin, writing in a journal in a quiet study"
+    ],
+    "token": "man",
+    "character": "elderly East Asian man with short, white hair and light brown skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional robe in a serene temple garden",
+        "sitting at a wooden table in a peaceful tea house",
+        "wearing a casual jacket in a bustling city street",
+        "standing by a riverside during autumn",
+        "holding a fishing rod by a tranquil lake",
+        "wearing glasses in a cozy library",
+        "sitting on a park bench feeding birds",
+        "wearing a traditional hat in a vibrant marketplace",
+        "reading a newspaper in a sunny living room",
+        "writing in a journal in a quiet study"
+    ],
+    "style": "A close-up photo of"
+}

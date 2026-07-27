@@ -1,0 +1,58 @@
+# Deprecated or local-only project content
+AGENTS.md
+raw_code/
+results/
+svd_sdxl_v4/
+
+# Model checkpoints and local model caches
+models/*
+!models/GroundingDINO/
+models/GroundingDINO/*
+!models/GroundingDINO/GroundingDINO_SwinB.cfg.py
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Generated media and arrays
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.npy
+*.npz
+
+# Python caches and build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and local config
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Notebook and editor metadata
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

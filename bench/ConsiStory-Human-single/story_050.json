@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, wearing a knitted sweater in a cozy living room",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, sitting on a porch in a rocking chair",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, wearing a sunhat in a vibrant flower garden",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, standing by a serene river during autumn",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, holding a teacup in a sunny kitchen",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, wearing a cardigan in a bustling market",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, sitting on a park bench feeding ducks",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, wearing glasses in a quiet library",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, reading a letter in a cozy study",
+        "A close-up photo of an elderly white woman with short, curly white hair and light skin, arranging flowers in a sunlit room"
+    ],
+    "token": "woman",
+    "character": "elderly white woman with short, curly white hair and light skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a knitted sweater in a cozy living room",
+        "sitting on a porch in a rocking chair",
+        "wearing a sunhat in a vibrant flower garden",
+        "standing by a serene river during autumn",
+        "holding a teacup in a sunny kitchen",
+        "wearing a cardigan in a bustling market",
+        "sitting on a park bench feeding ducks",
+        "wearing glasses in a quiet library",
+        "reading a letter in a cozy study",
+        "arranging flowers in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}

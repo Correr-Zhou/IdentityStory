@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, wearing a hijab in a peaceful garden",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, sitting at a café table with a cup of tea",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, wearing a summer dress in a blooming park",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, standing by a beach during sunset",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, holding a notebook in a busy market",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, wearing a cozy sweater in a library",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, sitting on a park bench sketching in a journal",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, wearing a casual blouse in a vibrant neighborhood",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, reading a newspaper in a sunny courtyard",
+        "A close-up photo of a young Middle Eastern woman with long, straight black hair and olive skin, watering plants in a serene garden"
+    ],
+    "token": "woman",
+    "character": "young Middle Eastern woman with long, straight black hair and olive skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a hijab in a peaceful garden",
+        "sitting at a café table with a cup of tea",
+        "wearing a summer dress in a blooming park",
+        "standing by a beach during sunset",
+        "holding a notebook in a busy market",
+        "wearing a cozy sweater in a library",
+        "sitting on a park bench sketching in a journal",
+        "wearing a casual blouse in a vibrant neighborhood",
+        "reading a newspaper in a sunny courtyard",
+        "watering plants in a serene garden"
+    ],
+    "style": "A close-up photo of"
+}

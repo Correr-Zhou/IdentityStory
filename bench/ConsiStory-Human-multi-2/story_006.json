@@ -1,0 +1,47 @@
+{
+    "prompts": [
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, playing music on an old piano",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, drawing together on a shared canvas",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, writing stories on a typewriter",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, mixing ingredients in glass bowls",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, discussing ideas near a large monitor",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, reading newspapers by a sunny window",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, assembling a model on a wooden table",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, sketching plans under a bright desk lamp",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, laughing together beside a bookshelf",
+        "A close-up photo of young Latina girl with short, curly black hair and light brown skin, middle-aged East Asian man with short, salt-and-pepper hair and fair skin, working on laptops at a coffee shop"
+    ],
+    "token": [
+        "girl",
+        "man"
+    ],
+    "character": [
+        "young Latina girl with short, curly black hair and light brown skin",
+        "middle-aged East Asian man with short, salt-and-pepper hair and fair skin"
+    ],
+    "settings_types": [
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background",
+        "action",
+        "background"
+    ],
+    "settings": [
+        "playing music on an old piano",
+        "drawing together on a shared canvas",
+        "writing stories on a typewriter",
+        "mixing ingredients in glass bowls",
+        "discussing ideas near a large monitor",
+        "reading newspapers by a sunny window",
+        "assembling a model on a wooden table",
+        "sketching plans under a bright desk lamp",
+        "laughing together beside a bookshelf",
+        "working on laptops at a coffee shop"
+    ],
+    "style": "A close-up photo of"
+}

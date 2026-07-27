@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, wearing a traditional dress in a colorful festival",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, sitting at a kitchen table doing homework",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, wearing a sunhat in a blooming garden",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, standing by a serene lake at sunset",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, holding a kite in a sunny park",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, wearing a casual t-shirt in a busy market",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, sitting on a porch reading a book",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, wearing glasses in a cozy library",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, reading a comic book in a sunlit room",
+        "A close-up photo of a young Indigenous girl with long, braided black hair and tan skin, helping her mother bake cookies in the kitchen"
+    ],
+    "token": "girl",
+    "character": "young Indigenous girl with long, braided black hair and tan skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional dress in a colorful festival",
+        "sitting at a kitchen table doing homework",
+        "wearing a sunhat in a blooming garden",
+        "standing by a serene lake at sunset",
+        "holding a kite in a sunny park",
+        "wearing a casual t-shirt in a busy market",
+        "sitting on a porch reading a book",
+        "wearing glasses in a cozy library",
+        "reading a comic book in a sunlit room",
+        "helping her mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, wearing a traditional shirt in a peaceful forest",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, sitting on a porch carving a wooden figurine",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, wearing a casual hoodie in a modern café",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, standing by a serene river at sunset",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, holding a camera by a mountain trail",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, wearing glasses in a quiet library",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, sitting on a park bench playing a flute",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, wearing a jacket in a bustling marketplace",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, reading a novel by a fireplace",
+        "A close-up photo of a middle-aged Native American man with long, straight black hair and tan skin, tending to a vegetable garden in a sunny backyard"
+    ],
+    "token": "man",
+    "character": "middle-aged Native American man with long, straight black hair and tan skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional shirt in a peaceful forest",
+        "sitting on a porch carving a wooden figurine",
+        "wearing a casual hoodie in a modern café",
+        "standing by a serene river at sunset",
+        "holding a camera by a mountain trail",
+        "wearing glasses in a quiet library",
+        "sitting on a park bench playing a flute",
+        "wearing a jacket in a bustling marketplace",
+        "reading a novel by a fireplace",
+        "tending to a vegetable garden in a sunny backyard"
+    ],
+    "style": "A close-up photo of"
+}

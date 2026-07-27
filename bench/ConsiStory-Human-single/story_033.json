@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, wearing a superhero costume in a lively playground",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, sitting at a kitchen table doing homework",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, wearing a casual t-shirt in a busy park",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, standing by a lake during a sunny day",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, holding a toy car in a cozy living room",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, wearing a hoodie in a schoolyard",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, sitting on a porch playing with a dog",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, wearing glasses in a home library",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, reading a comic book in a sunlit bedroom",
+        "A close-up photo of a young African-American boy with short, curly black hair and smooth dark skin, helping his mother bake cookies in the kitchen"
+    ],
+    "token": "boy",
+    "character": "young African-American boy with short, curly black hair and smooth dark skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "action",
+        "action"
+    ],
+    "settings": [
+        "wearing a superhero costume in a lively playground",
+        "sitting at a kitchen table doing homework",
+        "wearing a casual t-shirt in a busy park",
+        "standing by a lake during a sunny day",
+        "holding a toy car in a cozy living room",
+        "wearing a hoodie in a schoolyard",
+        "sitting on a porch playing with a dog",
+        "wearing glasses in a home library",
+        "reading a comic book in a sunlit bedroom",
+        "helping his mother bake cookies in the kitchen"
+    ],
+    "style": "A close-up photo of"
+}

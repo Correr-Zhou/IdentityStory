@@ -1,0 +1,41 @@
+{
+    "prompts": [
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, wearing a traditional robe in a serene temple",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, sitting on a porch drinking green tea",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, wearing glasses in a cozy study",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, standing by a lotus pond at sunrise",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, holding a book in a tranquil garden",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, wearing a sweater in a bustling city market",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, sitting on a park bench feeding birds",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, wearing a sunhat in a flower garden",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, reading a letter in a quiet living room",
+        "A close-up photo of an elderly East Asian man with short, white hair and fair skin, arranging bonsai trees in a sunlit room"
+    ],
+    "token": "man",
+    "character": "elderly East Asian man with short, white hair and fair skin",
+    "settings_types": [
+        "clothes",
+        "pose",
+        "clothes",
+        "background",
+        "action",
+        "clothes",
+        "pose",
+        "clothes",
+        "pose",
+        "action"
+    ],
+    "settings": [
+        "wearing a traditional robe in a serene temple",
+        "sitting on a porch drinking green tea",
+        "wearing glasses in a cozy study",
+        "standing by a lotus pond at sunrise",
+        "holding a book in a tranquil garden",
+        "wearing a sweater in a bustling city market",
+        "sitting on a park bench feeding birds",
+        "wearing a sunhat in a flower garden",
+        "reading a letter in a quiet living room",
+        "arranging bonsai trees in a sunlit room"
+    ],
+    "style": "A close-up photo of"
+}
